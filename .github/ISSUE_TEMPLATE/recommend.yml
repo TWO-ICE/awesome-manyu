@@ -1,0 +1,40 @@
+name: 推荐项目
+description: 推荐一个开源漫剧相关项目收录进本清单
+title: "[推荐] 项目名"
+labels: ["recommendation"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub 仓库地址
+      placeholder: 例如 https://github.com/HBAI-Ltd/Toonflow-app
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 建议分类
+      options:
+        - All-in-ONE 一站式平台
+        - Agent Skills 与工作流
+        - 生图与角色一致性
+        - 开源视频生成模型
+        - 配音/口型/音频
+        - 漫画翻译与出海
+        - 合成与剪辑
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: 一句话说明 + 它解决了什么痛点
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License（如果知道）
+      placeholder: 例如 MIT / Apache-2.0 / 自定义禁商用
+    validations:
+      required: false

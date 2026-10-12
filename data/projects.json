@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "note": "单一事实源：README 表格由 scripts/refresh.py 生成。收录新项目往对应分类的 items 里加条目提 PR。备注: custom_license 写自定义协议的说明（会拼在 License 列）",
+    "categories": {
+      "allinone": "一、All-in-ONE 一站式平台",
+      "skills": "二、Agent Skills 与工作流",
+      "img": "3.1 生图与角色一致性",
+      "video": "3.2 开源视频生成模型",
+      "audio": "3.3 配音/口型/音频",
+      "translate": "3.4 漫画翻译与出海",
+      "compose": "3.5 合成与剪辑"
+    }
+  },
+  "allinone": [
+    {"repo": "HBAI-Ltd/Toonflow-app", "desc": "无限画布 AI 视频创作平台：剧本创作、智能分镜、角色场景资产管理、生图生视频"},
+    {"repo": "chatfire-AI/huobao-drama", "desc": "一句话生成完整短剧：剧本→分镜→视频→配音→FFmpeg 合成全自动", "custom_license": "CC BY-NC-SA"},
+    {"repo": "waooAI/waoowaoo", "desc": "工业级全流程 AI 影视生产平台，短片到真人级影视", "custom_license": "Elastic-2.0"},
+    {"repo": "dramaclaw/dramaclaw", "desc": "通用 AIGC 视频引擎：剧本到成片一条流水线", "custom_license": "Elastic-2.0"},
+    {"repo": "Forget-C/Jellyfish", "desc": "端到端生产工作台：章节脚本→分镜与关联资产"},
+    {"repo": "ArcReel/ArcReel", "desc": "小说/剧本→角色场景道具资产→分镜→视频→剪映草稿"},
+    {"repo": "yi1108/printfilm", "desc": "模板驱动 AI 短视频/漫剧平台（FastAPI），含计费与管理后台、开放 API"},
+    {"repo": "MemeCalculate/moyin-creator", "desc": "AI 影视生产级工具，支持 Seedance 2.0，剧本到成片批量化"},
+    {"repo": "xuanyustudio/LocalMiniDrama", "desc": "纯 JavaScript 本地运行，数据零上传，支持 AI 真人剧+漫剧"},
+    {"repo": "LingyiChen-AI/AIComicBuilder", "desc": "AI 动态漫画生成器：脚本→分格→成片"},
+    {"repo": "HITsz-TMG/VideoClaw", "desc": "AI 全自动化视频生成员工：一个想法→完整短剧/漫剧"},
+    {"repo": "alibaba/lumenx", "desc": "阿里开源：小说文本→剧本分析→角色定制→分镜→动态漫剧视频"},
+    {"repo": "gzxx-2025/aid-studio", "desc": "自托管 AI 短剧/动态漫画工作室，Docker/systemd 部署，多模型多供应商"}
+  ],
+  "skills": [
+    {"repo": "eternityspring/shuohao-skills", "desc": "AI 短剧制作 skill 集合：拆角色、排大纲、出场景道具设定、写剧本、切分镜"},
+    {"repo": "zenstory-ai/drama-skills", "desc": "短剧/漫剧 skill 合集：剧本、角色资产、分镜、图/视频提示词、审查，适配 Claude Code 与 Codex"},
+    {"repo": "gnipbao/story-to-handdrawn-video", "desc": "中文故事文案→手绘白板动画视频"},
+    {"repo": "sorker/ai-shotlive", "desc": "小说→剧本→分镜→提示词→关键帧→视频→AI 剪辑一站式"}
+  ],
+  "img": [
+    {"repo": "comfyanonymous/ComfyUI", "desc": "节点式生成工作流引擎，漫剧出图/出视频的事实标准底座"},
+    {"repo": "TencentARC/PhotoMaker", "desc": "照片级人物一致性定制（腾讯 ARC）"},
+    {"repo": "QwenLM/Qwen-Image", "desc": "阿里文生图，中文文字渲染强，海报/字幕图好用"},
+    {"repo": "tencent-ailab/IP-Adapter", "desc": "图像提示词适配器，角色参考控制的事实标准"},
+    {"repo": "HVision-NKU/StoryDiffusion", "desc": "一致性角色 + 漫画序列生成，连续分格不换脸"}
+  ],
+  "video": [
+    {"repo": "Wan-Video/Wan2.2", "desc": "开源质量标杆，中文提示词原生支持，T2V+I2V", "vram": "24GB（量化）"},
+    {"repo": "THUDM/CogVideo", "desc": "智谱出品，可控性好，适合微调", "vram": "16-24GB"},
+    {"repo": "Tencent-Hunyuan/HunyuanVideo", "desc": "腾讯，画质上限高，电影感强", "vram": "24GB（量化）"},
+    {"repo": "Lightricks/LTX-Video", "desc": "秒级出片，支持同步生成音频", "vram": "12-16GB"},
+    {"repo": "SkyworkAI/SkyReels-V2", "desc": "昆仑万维，电影感镜头运动，支持无限时长", "vram": "14GB+"},
+    {"repo": "Tencent-Hunyuan/HunyuanVideo-1.5", "desc": "轻量版，消费级显卡可跑", "vram": "14GB（卸载）"},
+    {"repo": "bilibili/index-anisora", "desc": "B 站二次元动漫风格视频模型，漫剧对口", "vram": "—"}
+  ],
+  "audio": [
+    {"repo": "openai/whisper", "desc": "语音识别，字幕与时间轴制作标配"},
+    {"repo": "RVC-Boss/GPT-SoVITS", "desc": "少样本中文音色克隆，漫剧配音主力"},
+    {"repo": "myshell-ai/OpenVoice", "desc": "即时音色克隆，多语种"},
+    {"repo": "fishaudio/fish-speech", "desc": "多语种 TTS，效果好（注意：模型权重 NC）", "custom_license": "CC BY-NC-SA"},
+    {"repo": "facebookresearch/audiocraft", "desc": "Meta MusicGen/AudioGen，BGM 与音效生成"},
+    {"repo": "Rudrabha/Wav2Lip", "desc": "语音驱动口型老牌方案", "license_override": "research", "license_note": "仅研究用途，禁商用"},
+    {"repo": "bytedance/LatentSync", "desc": "字节开源，SD 架构口型同步"},
+    {"repo": "DanielSWolf/rhubarb-lip-sync", "desc": "2D 动画口型自动生成，动态漫画对口"}
+  ],
+  "translate": [
+    {"repo": "zyddnys/manga-image-translator", "desc": "图片内文字一键翻译，生肉变熟肉"},
+    {"repo": "koharu-rs/koharu", "desc": "Rust 写的 ML 漫画翻译器，快"},
+    {"repo": "dmMaze/BallonsTranslator", "desc": "深度学习辅助漫画翻译，带图像/文本编辑"}
+  ],
+  "compose": [
+    {"repo": "ffmpeg/ffmpeg", "desc": "视频合成、字幕烧录、转码的事实标准，各家流水线最后一步都靠它", "custom_license": "LGPL-2.1 / GPL-2.0"}
+  ]
+}
