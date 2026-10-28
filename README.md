@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.png" alt="Awesome 漫剧 · 开源 AI 漫剧工具集合" width="100%" />
+</div>
+
 # 🎬 Awesome 漫剧 · 开源 AI 漫剧 / AI 短剧工具集合
 
 > 中文世界最全的开源漫剧工具地图：**按生产流水线分类 · License 红绿灯 · 数据每周自动刷新**
