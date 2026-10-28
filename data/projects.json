@@ -24,7 +24,8 @@
     {"repo": "LingyiChen-AI/AIComicBuilder", "desc": "AI 动态漫画生成器：脚本→分格→成片"},
     {"repo": "HITsz-TMG/VideoClaw", "desc": "AI 全自动化视频生成员工：一个想法→完整短剧/漫剧"},
     {"repo": "alibaba/lumenx", "desc": "阿里开源：小说文本→剧本分析→角色定制→分镜→动态漫剧视频"},
-    {"repo": "gzxx-2025/aid-studio", "desc": "自托管 AI 短剧/动态漫画工作室，Docker/systemd 部署，多模型多供应商"}
+    {"repo": "gzxx-2025/aid-studio", "desc": "自托管 AI 短剧/动态漫画工作室，Docker/systemd 部署，多模型多供应商"},
+    {"repo": "charliewwdev/OpenMontage", "desc": "自托管AI短剧工坊：剧本→角色场景道具→分镜→视频→配音剪辑"}
   ],
   "skills": [
     {"repo": "eternityspring/shuohao-skills", "desc": "AI 短剧制作 skill 集合：拆角色、排大纲、出场景道具设定、写剧本、切分镜"},
