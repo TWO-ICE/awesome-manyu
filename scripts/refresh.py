@@ -135,6 +135,11 @@ def render_table(items: list, cat: str, token: str | None) -> str:
     )
 
 
+def render_intro(cat: str) -> str:
+    """各分类表格上方的一句话简介，由 refresh 时保持不动；这里仅占位说明新增分类"""
+    return ""
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--token", default=os.environ.get("GH_TOKEN", ""))

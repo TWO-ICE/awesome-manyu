@@ -2,11 +2,13 @@ name: Refresh data
 
 on:
   schedule:
-    - cron: "0 1 * * 1" # 每周一 09:00 UTC+8
+    - cron: "0 1 * * 1" # 每周一 09:00 UTC+8 刷新数据
+    - cron: "0 2 * * 1" # 每周一 10:00 UTC+8 发现扫描
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: refresh
@@ -37,4 +39,34 @@ jobs:
           else
             git commit -m "chore: weekly data refresh [skip ci]"
             git push
+          fi
+
+  discover:
+    runs-on: ubuntu-latest
+    needs: refresh
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan for new candidates
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/discover.py > report.md
+
+      - name: Create weekly discovery issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date +%F)
+          existing=$(gh issue list --label discovery --state open --json number --jq 'length')
+          if [ "$existing" -gt 0 ]; then
+            echo "已有未处理的发现报告 Issue，跳过创建（避免堆积）"
+          else
+            gh issue create \
+              --title "🛰️ 每周发现报告 · $DATE" \
+              --body-file report.md \
+              --label discovery
           fi

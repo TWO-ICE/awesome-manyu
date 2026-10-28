@@ -1,9 +1,12 @@
 {
   "meta": {
-    "note": "单一事实源：README 表格由 scripts/refresh.py 生成。收录新项目往对应分类的 items 里加条目提 PR。备注: custom_license 写自定义协议的说明（会拼在 License 列）",
+    "note": "单一事实源：README 表格由 scripts/refresh.py 生成。收录新项目往对应分类的 items 里加条目提 PR。custom_license 写自定义协议说明（拼在 License 列）",
     "categories": {
       "allinone": "一、All-in-ONE 一站式平台",
-      "skills": "二、Agent Skills 与工作流",
+      "writing": "2.1 编剧 / 网文改编",
+      "skills": "2.2 全流程技能包",
+      "directing": "2.3 导演 / 分镜 / 镜头设计",
+      "prompts": "2.4 提示词库",
       "img": "3.1 生图与角色一致性",
       "video": "3.2 开源视频生成模型",
       "audio": "3.3 配音/口型/音频",
@@ -74,6 +77,30 @@
     {
       "repo": "charliewwdev/OpenMontage",
       "desc": "自托管AI短剧工坊：剧本→角色场景道具→分镜→视频→配音剪辑"
+    },
+    {
+      "repo": "HKUDS/ViMax",
+      "desc": "Agentic 视频生成：导演 Agent 驱动，从想法到成片自动化"
+    },
+    {
+      "repo": "shuyu-labs/BigBanana-AI-Director",
+      "desc": "工业级一站式 AI 短剧导演：定妆→搭景→分镜→成片全程可控"
+    },
+    {
+      "repo": "xhongc/ai_story",
+      "desc": "AI 视频/动漫/漫剧自动化生成工具，故事输入成片输出"
+    },
+    {
+      "repo": "Stonewuu/ai-fusion-video",
+      "desc": "融光：基于 Agent 的全流程 AI 短剧/漫剧/视频创作平台"
+    },
+    {
+      "repo": "LingGuoAI/LingGuo-Drama",
+      "desc": "灵果短剧 AI：一句话生成完整短剧/漫剧"
+    },
+    {
+      "repo": "SwotAtmk/infinite-creation",
+      "desc": "提交小说/剧本，本地 ComfyUI 全流程出片"
     }
   ],
   "skills": [
@@ -92,6 +119,66 @@
     {
       "repo": "sorker/ai-shotlive",
       "desc": "小说→剧本→分镜→提示词→关键帧→视频→AI 剪辑一站式"
+    },
+    {
+      "repo": "lixiaoxiao9888-create/manju-laoli-skill",
+      "desc": "漫剧老李 AIGC 创作全流程多技能套装"
+    },
+    {
+      "repo": "zhurui0523/XiaoLuo-AI-Drama-Skill",
+      "desc": "小罗 AI 漫剧创作技能包"
+    },
+    {
+      "repo": "lixiaoxiao9888-create/short-drama-factory",
+      "desc": "Short-Drama Factory：抖音/红果爆款短剧工厂"
+    },
+    {
+      "repo": "VanGong1999/screen-creative-skills",
+      "desc": "影视创作技能集合：编剧到导演全链路"
+    },
+    {
+      "repo": "A-cat-with-carrots/OnlyShot",
+      "desc": "神仙鱼 AI 短剧工业流水线 Claude Skill"
+    },
+    {
+      "repo": "zhaihao118/Micro-Drama-Skills",
+      "desc": "AI 驱动的短剧全流程自动化制作系统（Claude Skills）"
+    },
+    {
+      "repo": "wuwangzhang1216/DirectorSKILL",
+      "desc": "Claude Code AI 电影制作技能"
+    },
+    {
+      "repo": "Tencent/workrally",
+      "desc": "腾讯：面向 AI Agent 的 AIGC 漫剧视频创作全流程工具集"
+    },
+    {
+      "repo": "machina-exm/film-studio-skills",
+      "desc": "7 个可安装的电影制片厂 Agent 技能"
+    },
+    {
+      "repo": "SlavaSexton/ComfyUI-Agent-Kit",
+      "desc": "给 AI coding agent 用的一个 ComfyUI 全能技能"
+    },
+    {
+      "repo": "62656456/ai-film-skills",
+      "desc": "Open Film Skills：21 个独立模块化电影技能"
+    },
+    {
+      "repo": "xixihhhh/ai-short-drama-skill",
+      "desc": "Dramake：面向 Codex / Claude Code / WorkBuddy 的短剧技能"
+    },
+    {
+      "repo": "Hao0321/ai-short-drama",
+      "desc": "AI 短剧故事架构与剧本创作 skill"
+    },
+    {
+      "repo": "mini-yifan/open-source-video-gen-skill",
+      "desc": "Vibe Video：一句话想法→成片，开源 MiniMax H3 方案"
+    },
+    {
+      "repo": "JohnKeating1997/spark-video",
+      "desc": "AI 视频生产 skill：premise→成片"
     }
   ],
   "img": [
@@ -209,6 +296,144 @@
       "repo": "ffmpeg/ffmpeg",
       "desc": "视频合成、字幕烧录、转码的事实标准，各家流水线最后一步都靠它",
       "custom_license": "LGPL-2.1 / GPL-2.0"
+    }
+  ],
+  "writing": [
+    {
+      "repo": "lingfengQAQ/webnovel-writer",
+      "desc": "基于 Claude Code 的长篇网文辅助创作系统：一致性与长程记忆"
+    },
+    {
+      "repo": "KKKKhazix/human-writing",
+      "desc": "让 AI 写的中文读起来像一个具体的人，通用创作与改稿 Skill"
+    },
+    {
+      "repo": "Nanako0129/sepia",
+      "desc": "去 AI 味写作 Skill，任意 Agent 可装"
+    },
+    {
+      "repo": "jtydhr88/screenwriting-skills",
+      "desc": "专业影视编剧 Agent 技能集"
+    },
+    {
+      "repo": "0xsline/short-drama",
+      "desc": "专业短剧剧本创作：选题立项→分集撰写→质量自检→合规审核→海外"
+    },
+    {
+      "repo": "Shanyin-ai/shanyin-screenwriting-master",
+      "desc": "山音超级编剧：全格式影视编剧技能，1-3 分钟到长剧全覆盖"
+    },
+    {
+      "repo": "Tomsawyerhu/Chinese-WebNovel-Skill",
+      "desc": "中文网文小说写作 skill"
+    },
+    {
+      "repo": "zhlmi/narrative-to-screen-reader",
+      "desc": "叙事转译：把手上的故事翻译成影视开发语言"
+    },
+    {
+      "repo": "senmanx/novel-to-manju",
+      "desc": "小说转漫剧短视频全流程提示词 Skill：爆款改文→剧本→人物场景资产"
+    },
+    {
+      "repo": "muxia0396/novel-to-ai-short-drama-skill",
+      "desc": "小说改编 AI 短剧：分镜、运镜、表演调度与时长"
+    }
+  ],
+  "directing": [
+    {
+      "repo": "liangdabiao/Seedance2-Storyboard-Generator",
+      "desc": "Seedance 分镜生成：故事→直接能拿去出图出视频的制作文档"
+    },
+    {
+      "repo": "liyue-aigc/seedance-2-5-video-director",
+      "desc": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定"
+    },
+    {
+      "repo": "Shanyin-ai/shanyin-director-master",
+      "desc": "山音超级导演：导演定调→节奏规划→剧本微调→分镜拆解"
+    },
+    {
+      "repo": "smixs/visual-skills",
+      "desc": "AI 电影导演技能集：电影语言与视觉叙事"
+    },
+    {
+      "repo": "phileiny/h3-storyboard-skill",
+      "desc": "MiniMax H3 分镜/运镜 Claude Code skill"
+    },
+    {
+      "repo": "suihe1/short-drama-production",
+      "desc": "短剧生产总控 skill：专业导演分镜 + MiniMax H3"
+    },
+    {
+      "repo": "woodfantasy/Seedance-ShotDesign-Skills",
+      "desc": "Seedance 2.5 镜头设计技能"
+    },
+    {
+      "repo": "liyue-aigc/seedance-2-5-fight-director",
+      "desc": "Seedance 2.5 高燃动作戏导演 skill（Codex）"
+    },
+    {
+      "repo": "qualsenWeb/fight-video-create-skill",
+      "desc": "AI 打斗视频创作/设计技能"
+    },
+    {
+      "repo": "irenerachel/fight-prompt-director",
+      "desc": "AI 动作导演：打斗场面提示词编排"
+    },
+    {
+      "repo": "alchaincyf/seedance-skill",
+      "desc": "白模驱动的 AI 视频工作台（Seedance）"
+    },
+    {
+      "repo": "AharaOoO/acheng-director-skill",
+      "desc": "阿城导演：电影级导演综合引擎"
+    },
+    {
+      "repo": "LuoJiangYong/muse-video-skill",
+      "desc": "视频创作虚拟剧组引擎：创意→剧本/分镜/美术/提示词"
+    },
+    {
+      "repo": "kevinchin12/storyboard-director",
+      "desc": "提示词可控的分镜 skill（Codex）"
+    },
+    {
+      "repo": "zlbigger/story-video-director",
+      "desc": "任意故事→图片素材、分镜、中文视听提示词与 API 清单"
+    }
+  ],
+  "prompts": [
+    {
+      "repo": "dexhunter/seedance2-skill",
+      "desc": "Seedance 2 最佳提示词生成 skill"
+    },
+    {
+      "repo": "LearnPrompt/awesome-seedance",
+      "desc": "Evidence-led Seedance 提示词库，带实测画面对照"
+    },
+    {
+      "repo": "OSideMedia/higgsfield-ai-prompt-skill",
+      "desc": "Higgsfield 电影感提示词 Claude skill"
+    },
+    {
+      "repo": "popopo-99/zy-cinematic-realism",
+      "desc": "场景想法→克制电影写实感提示词"
+    },
+    {
+      "repo": "jnMetaCode/ai-shortfilm-prompts",
+      "desc": "任意想法→AI 短片提示词 Claude Code Skill"
+    },
+    {
+      "repo": "cclank/lanshu-awesome-ai-video-kit",
+      "desc": "411 个提示词 · 15 模型 · 7 个 Claude skill，企业项目实战沉淀"
+    },
+    {
+      "repo": "T8mars/minimax-h3-prompt-skill-T8",
+      "desc": "MiniMax H3 Creative DNA 提示词案例"
+    },
+    {
+      "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+      "desc": "100+ 精选 Seedance 2.5 提示词，附真实出片"
     }
   ]
 }
