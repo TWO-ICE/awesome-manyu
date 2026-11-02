@@ -44,26 +44,26 @@
 <!-- manyu:table:allinone -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [OpenMontage](https://github.com/calesthio/OpenMontage) | 74563 | 全球最大开源 AI 视频生产系统：12 条生产流水线、100+ 工具、Agent 驱动，一句话创意到成片 | 📚 AGPL-3.0 |
-| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 20194 | 无限画布 AI 视频创作平台：剧本创作、智能分镜、角色场景资产管理、生图生视频 | ✅ MIT |
-| [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 16910 | 一句话生成完整短剧：剧本→分镜→视频→配音→FFmpeg 合成全自动 | ⚠️ CC BY-NC-SA |
-| [waoowaoo](https://github.com/waooAI/waoowaoo) | 14745 | 工业级全流程 AI 影视生产平台，短片到真人级影视 | ⚠️ Elastic-2.0 |
-| [dramaclaw](https://github.com/dramaclaw/dramaclaw) | 6857 | 通用 AIGC 视频引擎：剧本到成片一条流水线 | ⚠️ Elastic-2.0 |
-| [Jellyfish](https://github.com/Forget-C/Jellyfish) | 7098 | 端到端生产工作台：章节脚本→分镜与关联资产 | ✅ Apache-2.0 |
-| [ArcReel](https://github.com/ArcReel/ArcReel) | 6069 | 小说/剧本→角色场景道具资产→分镜→视频→剪映草稿 | 📚 AGPL-3.0 |
+| [OpenMontage](https://github.com/calesthio/OpenMontage) | 74637 | 全球最大开源 AI 视频生产系统：12 条生产流水线、100+ 工具、Agent 驱动，一句话创意到成片 | 📚 AGPL-3.0 |
+| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 20209 | 无限画布 AI 视频创作平台：剧本创作、智能分镜、角色场景资产管理、生图生视频 | ✅ MIT |
+| [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 16920 | 一句话生成完整短剧：剧本→分镜→视频→配音→FFmpeg 合成全自动 | ⚠️ CC BY-NC-SA |
+| [waoowaoo](https://github.com/waooAI/waoowaoo) | 14746 | 工业级全流程 AI 影视生产平台，短片到真人级影视 | ⚠️ Elastic-2.0 |
+| [dramaclaw](https://github.com/dramaclaw/dramaclaw) | 6858 | 通用 AIGC 视频引擎：剧本到成片一条流水线 | ⚠️ Elastic-2.0 |
+| [Jellyfish](https://github.com/Forget-C/Jellyfish) | 7099 | 端到端生产工作台：章节脚本→分镜与关联资产 | ✅ Apache-2.0 |
+| [ArcReel](https://github.com/ArcReel/ArcReel) | 6074 | 小说/剧本→角色场景道具资产→分镜→视频→剪映草稿 | 📚 AGPL-3.0 |
 | [printfilm](https://github.com/yi1108/printfilm) | 7397 | 模板驱动 AI 短视频/漫剧平台（FastAPI），含计费与管理后台、开放 API | ✅ MIT |
 | [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | 4813 | AI 影视生产级工具，支持 Seedance 2.0，剧本到成片批量化 | 📚 AGPL-3.0 |
-| [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | 2318 | 纯 JavaScript 本地运行，数据零上传，支持 AI 真人剧+漫剧 | ✅ MIT |
-| [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) | 1937 | AI 动态漫画生成器：脚本→分格→成片 | ✅ Apache-2.0 |
+| [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | 2320 | 纯 JavaScript 本地运行，数据零上传，支持 AI 真人剧+漫剧 | ✅ MIT |
+| [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) | 1938 | AI 动态漫画生成器：脚本→分格→成片 | ✅ Apache-2.0 |
 | [VideoClaw](https://github.com/HITsz-TMG/VideoClaw) | 1887 | AI 全自动化视频生成员工：一个想法→完整短剧/漫剧 | ✅ MIT |
-| [lumenx](https://github.com/alibaba/lumenx) | 1439 | 阿里开源：小说文本→剧本分析→角色定制→分镜→动态漫剧视频 | ✅ MIT |
-| [aid-studio](https://github.com/shijue-aid/aid-studio) | 1254 | 自托管 AI 短剧/动态漫画工作室，Docker/systemd 部署，多模型多供应商 | ✅ MIT |
-| [OpenMontage](https://github.com/charliewwdev/OpenMontage) | 10 | 自托管AI短剧工坊：剧本→角色场景道具→分镜→视频→配音剪辑 | 📚 AGPL-3.0 |
-| [ViMax](https://github.com/HKUDS/ViMax) | 12825 | Agentic 视频生成：导演 Agent 驱动，从想法到成片自动化 | ✅ MIT |
+| [lumenx](https://github.com/alibaba/lumenx) | 1441 | 阿里开源：小说文本→剧本分析→角色定制→分镜→动态漫剧视频 | ✅ MIT |
+| [aid-studio](https://github.com/shijue-aid/aid-studio) | 1256 | 自托管 AI 短剧/动态漫画工作室，Docker/systemd 部署，多模型多供应商 | ✅ MIT |
+| [OpenMontage](https://github.com/charliewwdev/OpenMontage) | 11 | 自托管AI短剧工坊：剧本→角色场景道具→分镜→视频→配音剪辑 | 📚 AGPL-3.0 |
+| [ViMax](https://github.com/HKUDS/ViMax) | 12829 | Agentic 视频生成：导演 Agent 驱动，从想法到成片自动化 | ✅ MIT |
 | [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) | 2403 | 工业级一站式 AI 短剧导演：定妆→搭景→分镜→成片全程可控 | ⚠️ 自定义（读原文） |
-| [ai_story](https://github.com/xhongc/ai_story) | 1973 | AI 视频/动漫/漫剧自动化生成工具，故事输入成片输出 | ⚠️ 自定义（读原文） |
-| [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) | 1678 | 融光：基于 Agent 的全流程 AI 短剧/漫剧/视频创作平台 | ✅ MIT |
-| [LingGuo-Drama](https://github.com/LingGuoAI/LingGuo-Drama) | 1632 | 灵果短剧 AI：一句话生成完整短剧/漫剧 | ⚠️ 自定义（读原文） |
+| [ai_story](https://github.com/xhongc/ai_story) | 1974 | AI 视频/动漫/漫剧自动化生成工具，故事输入成片输出 | ⚠️ 自定义（读原文） |
+| [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) | 1679 | 融光：基于 Agent 的全流程 AI 短剧/漫剧/视频创作平台 | ✅ MIT |
+| [LingGuo-Drama](https://github.com/LingGuoAI/LingGuo-Drama) | 1633 | 灵果短剧 AI：一句话生成完整短剧/漫剧 | ⚠️ 自定义（读原文） |
 | [infinite-creation](https://github.com/SwotAtmk/infinite-creation) | 170 | 提交小说/剧本，本地 ComfyUI 全流程出片 | ✅ MIT |
 <!-- /manyu:table:allinone -->
 
@@ -76,13 +76,13 @@
 <!-- manyu:table:writing -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 7783 | 基于 Claude Code 的长篇网文辅助创作系统：一致性与长程记忆 | 📚 GPL-3.0 |
-| [human-writing](https://github.com/KKKKhazix/human-writing) | 4313 | 让 AI 写的中文读起来像一个具体的人，通用创作与改稿 Skill | ✅ MIT |
-| [sepia](https://github.com/Nanako0129/sepia) | 3578 | 去 AI 味写作 Skill，任意 Agent 可装 | ✅ MIT |
-| [screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 1922 | 专业影视编剧 Agent 技能集 | ✅ MIT |
+| [webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 7784 | 基于 Claude Code 的长篇网文辅助创作系统：一致性与长程记忆 | 📚 GPL-3.0 |
+| [human-writing](https://github.com/KKKKhazix/human-writing) | 4317 | 让 AI 写的中文读起来像一个具体的人，通用创作与改稿 Skill | ✅ MIT |
+| [sepia](https://github.com/Nanako0129/sepia) | 3579 | 去 AI 味写作 Skill，任意 Agent 可装 | ✅ MIT |
+| [screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 1925 | 专业影视编剧 Agent 技能集 | ✅ MIT |
 | [short-drama](https://github.com/0xsline/short-drama) | 1539 | 专业短剧剧本创作：选题立项→分集撰写→质量自检→合规审核→海外 | ✅ MIT |
 | [shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master) | 1438 | 山音超级编剧：全格式影视编剧技能，1-3 分钟到长剧全覆盖 | ✅ MIT |
-| [Chinese-WebNovel-Skill](https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill) | 954 | 中文网文小说写作 skill | ⚠️ 自定义（读原文） |
+| [Chinese-WebNovel-Skill](https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill) | 956 | 中文网文小说写作 skill | ⚠️ 自定义（读原文） |
 | [narrative-to-screen-reader](https://github.com/zhlmi/narrative-to-screen-reader) | 129 | 叙事转译：把手上的故事翻译成影视开发语言 | ⚠️ 自定义（读原文） |
 | [novel-to-manju](https://github.com/senmanx/novel-to-manju) | 72 | 小说转漫剧短视频全流程提示词 Skill：爆款改文→剧本→人物场景资产 | ⚠️ 自定义（读原文） |
 | [novel-to-ai-short-drama-skill](https://github.com/muxia0396/novel-to-ai-short-drama-skill) | 32 | 小说改编 AI 短剧：分镜、运镜、表演调度与时长 | ✅ MIT |
@@ -93,11 +93,11 @@
 <!-- manyu:table:skills -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 5865 | AI 短剧制作 skill 集合：拆角色、排大纲、出场景道具设定、写剧本、切分镜 | ✅ Apache-2.0 |
-| [drama-skills](https://github.com/zenstory-ai/drama-skills) | 3638 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、图/视频提示词、审查，适配 Claude Code 与 Codex | ✅ MIT |
-| [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | 2346 | 中文故事文案→手绘白板动画视频 | ✅ MIT |
+| [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 5871 | AI 短剧制作 skill 集合：拆角色、排大纲、出场景道具设定、写剧本、切分镜 | ✅ Apache-2.0 |
+| [drama-skills](https://github.com/zenstory-ai/drama-skills) | 3650 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、图/视频提示词、审查，适配 Claude Code 与 Codex | ✅ MIT |
+| [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | 2349 | 中文故事文案→手绘白板动画视频 | ✅ MIT |
 | [ai-shotlive](https://github.com/sorker/ai-shotlive) | 348 | 小说→剧本→分镜→提示词→关键帧→视频→AI 剪辑一站式 | ⚠️ 自定义（读原文） |
-| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | 1832 | 漫剧老李 AIGC 创作全流程多技能套装 | ✅ MIT |
+| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | 1834 | 漫剧老李 AIGC 创作全流程多技能套装 | ✅ MIT |
 | [XiaoLuo-AI-Drama-Skill](https://github.com/zhurui0523/XiaoLuo-AI-Drama-Skill) | 503 | 小罗 AI 漫剧创作技能包 | ⚠️ 自定义（读原文） |
 | [short-drama-factory](https://github.com/lixiaoxiao9888-create/short-drama-factory) | 516 | Short-Drama Factory：抖音/红果爆款短剧工厂 | ✅ MIT |
 | [screen-creative-skills](https://github.com/VanGong1999/screen-creative-skills) | 491 | 影视创作技能集合：编剧到导演全链路 | ✅ MIT |
@@ -119,10 +119,10 @@
 <!-- manyu:table:directing -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | 2744 | Seedance 分镜生成：故事→直接能拿去出图出视频的制作文档 | ⚠️ 自定义（读原文） |
+| [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | 2746 | Seedance 分镜生成：故事→直接能拿去出图出视频的制作文档 | ⚠️ 自定义（读原文） |
 | [seedance-2-5-video-director](https://github.com/liyue-aigc/seedance-2-5-video-director) | 751 | Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定 | ✅ MIT |
 | [shanyin-director-master](https://github.com/Shanyin-ai/shanyin-director-master) | 618 | 山音超级导演：导演定调→节奏规划→剧本微调→分镜拆解 | ✅ MIT |
-| [visual-skills](https://github.com/smixs/visual-skills) | 613 | AI 电影导演技能集：电影语言与视觉叙事 | ✅ CC-BY-4.0 |
+| [visual-skills](https://github.com/smixs/visual-skills) | 615 | AI 电影导演技能集：电影语言与视觉叙事 | ✅ CC-BY-4.0 |
 | [h3-storyboard-skill](https://github.com/phileiny/h3-storyboard-skill) | 189 | MiniMax H3 分镜/运镜 Claude Code skill | ✅ MIT |
 | [short-drama-production](https://github.com/suihe1/short-drama-production) | 190 | 短剧生产总控 skill：专业导演分镜 + MiniMax H3 | ✅ Apache-2.0 |
 | [Seedance-ShotDesign-Skills](https://github.com/woodfantasy/Seedance-ShotDesign-Skills) | 131 | Seedance 2.5 镜头设计技能 | ⚠️ MIT-0 |
@@ -141,13 +141,13 @@
 <!-- manyu:table:prompts -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [seedance2-skill](https://github.com/dexhunter/seedance2-skill) | 4394 | Seedance 2 最佳提示词生成 skill | ✅ MIT |
-| [awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) | 2385 | Evidence-led Seedance 提示词库，带实测画面对照 | ✅ MIT |
+| [seedance2-skill](https://github.com/dexhunter/seedance2-skill) | 4395 | Seedance 2 最佳提示词生成 skill | ✅ MIT |
+| [awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) | 2386 | Evidence-led Seedance 提示词库，带实测画面对照 | ✅ MIT |
 | [higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill) | 838 | Higgsfield 电影感提示词 Claude skill | ✅ MIT |
 | [zy-cinematic-realism](https://github.com/popopo-99/zy-cinematic-realism) | 647 | 场景想法→克制电影写实感提示词 | ⚠️ 自定义（读原文） |
 | [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) | 506 | 任意想法→AI 短片提示词 Claude Code Skill | ✅ MIT |
 | [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) | 438 | 411 个提示词 · 15 模型 · 7 个 Claude skill，企业项目实战沉淀 | ✅ MIT |
-| [minimax-h3-prompt-skill-T8](https://github.com/T8mars/minimax-h3-prompt-skill-T8) | 317 | MiniMax H3 Creative DNA 提示词案例 | ✅ MIT |
+| [minimax-h3-prompt-skill-T8](https://github.com/T8mars/minimax-h3-prompt-skill-T8) | 319 | MiniMax H3 Creative DNA 提示词案例 | ✅ MIT |
 | [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 254 | 100+ 精选 Seedance 2.5 提示词，附真实出片 | ⚠️ 自定义（读原文） |
 <!-- /manyu:table:prompts -->
 
@@ -158,9 +158,9 @@
 <!-- manyu:table:img -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 144543 | 节点式生成工作流引擎，漫剧出图/出视频的事实标准底座 | 📚 GPL-3.0 |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 144565 | 节点式生成工作流引擎，漫剧出图/出视频的事实标准底座 | 📚 GPL-3.0 |
 | [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | 10080 | 照片级人物一致性定制（腾讯 ARC） | ⚠️ 自定义（读原文） 🏢 |
-| [Qwen-Image](https://github.com/QwenLM/Qwen-Image) | 8444 | 阿里文生图，中文文字渲染强，海报/字幕图好用 | ✅ Apache-2.0 |
+| [Qwen-Image](https://github.com/QwenLM/Qwen-Image) | 8445 | 阿里文生图，中文文字渲染强，海报/字幕图好用 | ✅ Apache-2.0 |
 | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) | 6706 | 图像提示词适配器，角色参考控制的事实标准 | ✅ Apache-2.0 🏢 |
 | [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) | 6491 | 一致性角色 + 漫画序列生成，连续分格不换脸 | ✅ Apache-2.0 🏢 |
 <!-- /manyu:table:img -->
@@ -170,13 +170,13 @@
 <!-- manyu:table:video -->
 | 模型 | ⭐ | 最低显存 | License | 点评 |
 |---|---|---|---|---|
-| [Wan2.2](https://github.com/Wan-Video/Wan2.2) | 18312 | 24GB（量化） | ✅ Apache-2.0 | 开源质量标杆，中文提示词原生支持，T2V+I2V |
-| [CogVideo](https://github.com/zai-org/CogVideo) | 13171 | 16-24GB | ✅ Apache-2.0 🏢 | 智谱出品，可控性好，适合微调 |
+| [Wan2.2](https://github.com/Wan-Video/Wan2.2) | 18315 | 24GB（量化） | ✅ Apache-2.0 | 开源质量标杆，中文提示词原生支持，T2V+I2V |
+| [CogVideo](https://github.com/zai-org/CogVideo) | 13172 | 16-24GB | ✅ Apache-2.0 🏢 | 智谱出品，可控性好，适合微调 |
 | [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | 12707 | 24GB（量化） | ⚠️ 自定义（读原文） | 腾讯，画质上限高，电影感强 |
 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | 11275 | 12-16GB | ✅ Apache-2.0 | 秒级出片，支持同步生成音频 |
 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 7754 | 14GB+ | ⚠️ 自定义（读原文） | 昆仑万维，电影感镜头运动，支持无限时长 |
 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | 4591 | 14GB（卸载） | ⚠️ 自定义（读原文） | 轻量版，消费级显卡可跑 |
-| [Index-anisora](https://github.com/bilibili/Index-anisora) | 2533 | — | ✅ Apache-2.0 | B 站二次元动漫风格视频模型，漫剧对口 |
+| [Index-anisora](https://github.com/bilibili/Index-anisora) | 2534 | — | ✅ Apache-2.0 | B 站二次元动漫风格视频模型，漫剧对口 |
 <!-- /manyu:table:video -->
 
 ### 3.3 🎙️ 配音 / 口型 / 音频
@@ -184,13 +184,13 @@
 <!-- manyu:table:audio -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [whisper](https://github.com/openai/whisper) | 111753 | 语音识别，字幕与时间轴制作标配 | ✅ MIT |
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 64538 | 少样本中文音色克隆，漫剧配音主力 | ✅ MIT |
-| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | 38124 | 即时音色克隆，多语种 | ✅ MIT 🏢 |
+| [whisper](https://github.com/openai/whisper) | 111761 | 语音识别，字幕与时间轴制作标配 | ✅ MIT |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 64551 | 少样本中文音色克隆，漫剧配音主力 | ✅ MIT |
+| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | 38123 | 即时音色克隆，多语种 | ✅ MIT 🏢 |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | 33539 | 多语种 TTS，效果好（注意：模型权重 NC） | ⚠️ CC BY-NC-SA |
 | [audiocraft](https://github.com/facebookresearch/audiocraft) | 23784 | Meta MusicGen/AudioGen，BGM 与音效生成 | ✅ MIT |
 | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | 13265 | 语音驱动口型老牌方案 | ❌ 仅研究用途，禁商用 🏢 |
-| [LatentSync](https://github.com/bytedance/LatentSync) | 6235 | 字节开源，SD 架构口型同步 | ✅ Apache-2.0 🏢 |
+| [LatentSync](https://github.com/bytedance/LatentSync) | 6236 | 字节开源，SD 架构口型同步 | ✅ Apache-2.0 🏢 |
 | [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) | 2717 | 2D 动画口型自动生成，动态漫画对口 | ⚠️ 自定义（读原文） |
 <!-- /manyu:table:audio -->
 
@@ -200,8 +200,8 @@
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
 | [manga-image-translator](https://github.com/zyddnys/manga-image-translator) | 10564 | 图片内文字一键翻译，生肉变熟肉 | 📚 GPL-3.0 |
-| [koharu](https://github.com/koharu-rs/koharu) | 6569 | Rust 写的 ML 漫画翻译器，快 | ✅ Apache-2.0 |
-| [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) | 5258 | 深度学习辅助漫画翻译，带图像/文本编辑 | 📚 GPL-3.0 |
+| [koharu](https://github.com/koharu-rs/koharu) | 6570 | Rust 写的 ML 漫画翻译器，快 | ✅ Apache-2.0 |
+| [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) | 5259 | 深度学习辅助漫画翻译，带图像/文本编辑 | 📚 GPL-3.0 |
 <!-- /manyu:table:translate -->
 
 ### 3.5 ✂️ 合成与剪辑
@@ -209,7 +209,7 @@
 <!-- manyu:table:compose -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 66254 | 视频合成、字幕烧录、转码的事实标准，各家流水线最后一步都靠它 | 📚 LGPL-2.1 / GPL-2.0 |
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 66262 | 视频合成、字幕烧录、转码的事实标准，各家流水线最后一步都靠它 | 📚 LGPL-2.1 / GPL-2.0 |
 <!-- /manyu:table:compose -->
 
 ## 四、📖 网文改编专题（征集中）
