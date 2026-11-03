@@ -2,8 +2,7 @@ name: Refresh data
 
 on:
   schedule:
-    - cron: "0 1 * * 1" # 每周一 09:00 UTC+8 刷新数据
-    - cron: "0 2 * * 1" # 每周一 10:00 UTC+8 发现扫描
+    - cron: "0 1 * * 1" # 每周一 09:00 UTC+8：刷新数据 + 发现扫描（discover 有 needs: refresh，只触发一次）
   workflow_dispatch: {}
 
 permissions:
@@ -55,6 +54,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/discover.py > report.md
+
+      - name: Ensure discovery label
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label list --json name --jq '.[].name' | grep -qx discovery || \
+            gh label create discovery --description "每周自动发现的项目候选报告" --color 1D76DB
 
       - name: Create weekly discovery issue
         env:
