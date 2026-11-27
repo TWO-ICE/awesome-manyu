@@ -101,6 +101,62 @@
     {
       "repo": "SwotAtmk/infinite-creation",
       "desc": "提交小说/剧本，本地 ComfyUI 全流程出片"
+    },
+    {
+      "repo": "HKUDS/VideoAgent",
+      "desc": "[EMNLP2026] \"VideoAgent: All-in-One Agentic Framework for Vide…"
+    },
+    {
+      "repo": "myccarl/ai-shortVideo-pipeline",
+      "desc": "End-to-end AI short-video production pipeline. FastAPI orchest…"
+    },
+    {
+      "repo": "anymouschina/TapCanvas",
+      "desc": "面向 AI 影视、漫剧与多模态内容生产的 Agent 原生无限画布, 主推一键成片 agent，编排可控"
+    },
+    {
+      "repo": "Anil-matcha/Open-AI-Micro-Drama-Generator",
+      "desc": "AI short drama & micro-drama video generator — turns any idea …"
+    },
+    {
+      "repo": "POUND0423/AI-drama-pound",
+      "desc": "AI drama pound"
+    },
+    {
+      "repo": "fendouai/ViralForge",
+      "desc": "Agent-native viral video studio: deconstruct scripts, replicat…"
+    },
+    {
+      "repo": "liujh0729-jpg/aipdd-drama-agent",
+      "desc": "aipdd开源的集成画布与agent，实现短剧制作"
+    },
+    {
+      "repo": "wassermanproductions/motion-previs-studio",
+      "desc": "Open-source desktop app for AI-film motion, depth, pose, and c…"
+    },
+    {
+      "repo": "Sxuan-Coder/open-apex-drama",
+      "desc": "第三方红果短剧客户端，免登录、免广告、免费使用，支持真人剧、AI漫剧、AI短剧等多种短剧。支持Windows和安卓双端播放"
+    },
+    {
+      "repo": "nkxx188/Drama3-Studio",
+      "desc": "The simplest, most user-friendly Drama3 creation tool, deeply …"
+    },
+    {
+      "repo": "tsensei/OpenReels",
+      "desc": "Open-source AI pipeline that turns any topic into a publish-re…"
+    },
+    {
+      "repo": "skydeadpeng/hongguo-android-cast",
+      "desc": "红果短剧（Hongguo Drama）+ 黄果漫剧（Huangguo）多端客户端：Android 手机 / Android …"
+    },
+    {
+      "repo": "VanGong1999/juben",
+      "desc": "multi-agent platform for short-drama planning, writing & evalu…"
+    },
+    {
+      "repo": "rookiestar28/MiniMaxH3-Studio",
+      "desc": "Direct MiniMax H3 like a pro: Idea in, finished video out. A c…"
     }
   ],
   "skills": [
@@ -179,6 +235,58 @@
     {
       "repo": "JohnKeating1997/spark-video",
       "desc": "AI 视频生产 skill：premise→成片"
+    },
+    {
+      "repo": "blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "repo": "webadderallorg/Recordly",
+      "desc": "Create polished demo videos without editing skills. Mac/Window…"
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "desc": "AI video skill for Claude Code & Codex — cinematic, editable p…"
+    },
+    {
+      "repo": "Hommy-master/capcut-mate",
+      "desc": "开源剪映小助手｜剪映API | 扣子插件 | Open-source CapCut automation toolkit t…"
+    },
+    {
+      "repo": "shang-zhu/violin",
+      "desc": "Open-source Video Translation Skill"
+    },
+    {
+      "repo": "aqm857886159/Nomi",
+      "desc": "Open-source AI video workbench. Bring any model or your local …"
+    },
+    {
+      "repo": "liuluhaixiu/DaVinci-AutoEdit-Agent",
+      "desc": "AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill"
+    },
+    {
+      "repo": "Rimagination/h3lite",
+      "desc": "A hardware-aware Codex skill for local MiniMax H3 video genera…"
+    },
+    {
+      "repo": "aiskillstore/marketplace",
+      "desc": "Security-audited skills for Claude, Codex & Claude Code. One-c…"
+    },
+    {
+      "repo": "10291124jcjc-dotcom/ai-anime-series",
+      "desc": "AI 动画单元剧：固定原创角色，一句话出一集。角色设定图 + 宫格故事板 + 即梦 Seedance 一次生成。Claude…"
+    },
+    {
+      "repo": "Orkas-AI/Orkas-VideoStudio",
+      "desc": "Open-source alternative to Claude Motion and CapCut: your codi…"
+    },
+    {
+      "repo": "Utopai-Research/pai-code",
+      "desc": "Local AI filmmaking studio — skills, canvas, timeline — driven…"
+    },
+    {
+      "repo": "bozhouDev/video-skills-toolkit",
+      "desc": "Video skills toolkit for Remotion talking-head, sketch story, …"
     }
   ],
   "img": [
@@ -201,6 +309,70 @@
     {
       "repo": "HVision-NKU/StoryDiffusion",
       "desc": "一致性角色 + 漫画序列生成，连续分格不换脸"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "desc": "Uncensored AI Image & Video Generator — Free AI image & video …"
+    },
+    {
+      "repo": "invoke-ai/InvokeAI",
+      "desc": "Invoke is a leading creative engine that uses image and video …"
+    },
+    {
+      "repo": "KlingAIResearch/LivePortrait",
+      "desc": "Bring portraits to life!"
+    },
+    {
+      "repo": "modelscope/DiffSynth-Studio",
+      "desc": "Enjoy the magic of Diffusion models!"
+    },
+    {
+      "repo": "MeiGen-AI/InfiniteTalk",
+      "desc": "​​Unlimited-length talking video generation​​ that supports im…"
+    },
+    {
+      "repo": "wiltodelta/remove-ai-watermarks",
+      "desc": "Remove visible and invisible AI watermarks from images and vid…"
+    },
+    {
+      "repo": "showlab/Awesome-Video-Diffusion",
+      "desc": "A curated list of recent diffusion models for video generation…"
+    },
+    {
+      "repo": "AgnesAI-Labs/AgnesAI-Models",
+      "desc": "Official Agnes AI gateway and model catalog for OpenAI-compati…"
+    },
+    {
+      "repo": "diffusionstudio/editor",
+      "desc": "The VS Code of video editing, built for agents"
+    },
+    {
+      "repo": "ModelTC/LightX2V",
+      "desc": "Lightweight Image Video Action Generation Inference Framework"
+    },
+    {
+      "repo": "aigc-apps/VideoX-Fun",
+      "desc": "📹 A more flexible framework that can generate videos at any re…"
+    },
+    {
+      "repo": "jau123/MeiGen-AI-Design-MCP",
+      "desc": "Discover inspiration and create images and videos with the lat…"
+    },
+    {
+      "repo": "artokun/comfyui-mcp",
+      "desc": "Local-first, agent-native control plane for ComfyUI — MCP serv…"
+    },
+    {
+      "repo": "Anil-matcha/awesome-generative-ai-apps",
+      "desc": "50+ open-source generative AI apps you can clone, deploy, and …"
+    },
+    {
+      "repo": "wuwukaka/ComfyUI-WanAnimatePlus",
+      "desc": "Seamless video connection and multi-reference image support fo…"
+    },
+    {
+      "repo": "thaakeno/ComfyUI-MiniMax-H3-Studio",
+      "desc": "Reference-aware MiniMax H3 still-image production studio for C…"
     }
   ],
   "video": [
@@ -238,6 +410,74 @@
       "repo": "bilibili/index-anisora",
       "desc": "B 站二次元动漫风格视频模型，漫剧对口",
       "vram": "—"
+    },
+    {
+      "repo": "Emily2040/seedance-2.0",
+      "desc": "Comprehensive production pipeline for quad-modal AI filmmaking…"
+    },
+    {
+      "repo": "hao-ai-lab/FastVideo",
+      "desc": "A unified inference and post-training framework for accelerate…"
+    },
+    {
+      "repo": "Lightricks/ComfyUI-LTXVideo",
+      "desc": "LTX-Video Support for ComfyUI"
+    },
+    {
+      "repo": "Vchitect/VBench",
+      "desc": "[CVPR2024 Highlight] VBench - We Evaluate Video Generation"
+    },
+    {
+      "repo": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "desc": "The easiest way to use MiniMax H3. One compact workflow for T2…"
+    },
+    {
+      "repo": "AlonzoLeeeooo/awesome-video-generation",
+      "desc": "A collection of awesome video generation studies"
+    },
+    {
+      "repo": "WeChatCV/Stand-In",
+      "desc": "[CVPR2026 🎉] Stand-In is a lightweight, plug-and-play framewor…"
+    },
+    {
+      "repo": "james-see/ltx-video-mac",
+      "desc": "Native macOS app for local AI video on Apple Silicon — LTX-2, …"
+    },
+    {
+      "repo": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
+      "desc": "All-in-one MiniMax H3 node for ComfyUI - T2V, T2I, I2V, R2V, M…"
+    },
+    {
+      "repo": "KlingAIResearch/X-Dub",
+      "desc": "[ICML 2026] Try X-Dub to sync any character in a video with an…"
+    },
+    {
+      "repo": "Anil-matcha/awesome-ai-video-models",
+      "desc": "AI video generation model comparison: Seedance, Wan, and MiniM…"
+    },
+    {
+      "repo": "KlingAIResearch/ShotStream",
+      "desc": "[ECCV 2026] ShotStream: Streaming Multi-Shot Video Generation …"
+    },
+    {
+      "repo": "vericontext/vibeframe",
+      "desc": "Frontier AI video generation for coding agents - Seedance, Run…"
+    },
+    {
+      "repo": "xuanyuanzhifeng/ai-video-agent",
+      "desc": "AI生成图片轮播视频和HTML动画视频"
+    },
+    {
+      "repo": "Agions/kineo",
+      "desc": "🎬 端到端 AI 漫剧 / 动画短剧 Multi-Agent 多智能体协作创作平台 (Kineo AI)。基于 Hub-an…"
+    },
+    {
+      "repo": "maosika-ai/reshot",
+      "desc": "ReShot — copy the shot, not the actors. Video → depth map, Ope…"
+    },
+    {
+      "repo": "MaLunan/AIGCCanvasFlow",
+      "desc": "基于 Vue 3 + VueFlow 的 AIGC 无限画布工作流编辑器。类似可灵、libTv等编辑器，"
     }
   ],
   "audio": [
@@ -275,6 +515,82 @@
     {
       "repo": "DanielSWolf/rhubarb-lip-sync",
       "desc": "2D 动画口型自动生成，动态漫画对口"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alterna…"
+    },
+    {
+      "repo": "index-tts/index-tts",
+      "desc": "An Industrial-Level Controllable and Efficient Zero-Shot Text-…"
+    },
+    {
+      "repo": "pipecat-ai/pipecat",
+      "desc": "Open Source framework for voice agents, multimodal apps, and r…"
+    },
+    {
+      "repo": "livekit/agents",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹"
+    },
+    {
+      "repo": "TEN-framework/ten-framework",
+      "desc": "Open-source framework for conversational voice AI agents"
+    },
+    {
+      "repo": "openai/openai-agents-js",
+      "desc": "A lightweight, powerful framework for multi-agent workflows an…"
+    },
+    {
+      "repo": "zebbern/no-cost-ai",
+      "desc": "80+ free AI services for chat, image, video, voice & APIs (may…"
+    },
+    {
+      "repo": "MiniMax-AI/cli",
+      "desc": "Generate text, images, video, speech, and music by MiniMax"
+    },
+    {
+      "repo": "Agents365-ai/video-podcast-maker",
+      "desc": "Topic → 4K narrated video for coding agents. v5.3.0: local TTS…"
+    },
+    {
+      "repo": "MiniMax-AI/MiniMax-MCP",
+      "desc": "Official MiniMax Model Context Protocol (MCP) server that enab…"
+    },
+    {
+      "repo": "xixihhhh/clipforge",
+      "desc": "ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI …"
+    },
+    {
+      "repo": "OpenMOSS/MOSS-TTSD",
+      "desc": "A multilingual model for long-form, multi-speaker dialogue syn…"
+    },
+    {
+      "repo": "jianjieyiban/JJYB_AI_VideoAutoCut",
+      "desc": "JJYB_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）"
+    },
+    {
+      "repo": "lcy362/agnes-video-generator",
+      "desc": "Free AI video generator — open-source & self-hosted. Text/imag…"
+    },
+    {
+      "repo": "omnichar/OmniChar",
+      "desc": "The open .char format for consistent characters. Face, body, w…"
+    },
+    {
+      "repo": "mrbizarro/Phosphene",
+      "desc": "Phosphene is a free, open-source Mac app for making AI videos,…"
+    },
+    {
+      "repo": "tanpreetjolly/browser-whisper",
+      "desc": "In-browser Whisper speech-to-text with WebGPU (WASM fallback).…"
+    },
+    {
+      "repo": "PedroMarinhoDev/ComfyUI-Drama3",
+      "desc": "Fish Audio Drama 3 text to speech, natively in ComfyUI: voice …"
+    },
+    {
+      "repo": "toki-plus/ai-highlight-clip",
+      "desc": "AI驱动的长视频高光剪辑工具，自动将数小时的课程、访谈、直播回放转化为数十个爆款短视频。内置Whisper语音识别、大模型(…"
     }
   ],
   "translate": [
@@ -289,6 +605,38 @@
     {
       "repo": "dmMaze/BallonsTranslator",
       "desc": "深度学习辅助漫画翻译，带图像/文本编辑"
+    },
+    {
+      "repo": "jianchang512/pyvideotrans",
+      "desc": "Translate the video from one language to another and embed dub…"
+    },
+    {
+      "repo": "Huanshere/VideoLingo",
+      "desc": "Netflix-level subtitle cutting, translation, alignment, and ev…"
+    },
+    {
+      "repo": "WEIFENG2333/VideoCaptioner",
+      "desc": "🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译…"
+    },
+    {
+      "repo": "krillinai/OpenCreator",
+      "desc": "Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+…"
+    },
+    {
+      "repo": "nexmoe/VidBee",
+      "desc": "Download video and audio from 1000+ sites, transcribe locally …"
+    },
+    {
+      "repo": "buxuku/SmartSub",
+      "desc": "视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等…"
+    },
+    {
+      "repo": "liuzhao1225/YouDub-Desktop",
+      "desc": "Open-source AI video localization and dubbing for YouTube/Bili…"
+    },
+    {
+      "repo": "JuneYaooo/awesome-ai-media-cn",
+      "desc": "AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。"
     }
   ],
   "compose": [
@@ -296,6 +644,66 @@
       "repo": "ffmpeg/ffmpeg",
       "desc": "视频合成、字幕烧录、转码的事实标准，各家流水线最后一步都靠它",
       "custom_license": "LGPL-2.1 / GPL-2.0"
+    },
+    {
+      "repo": "mltframework/shotcut",
+      "desc": "cross-platform (Qt), open-source (GPLv3) video editor"
+    },
+    {
+      "repo": "linyqh/NarratoAI",
+      "desc": "利用 AI 大模型，一键解说并剪辑视频"
+    },
+    {
+      "repo": "Augani/openreel-video",
+      "desc": "OpenReel Video - Professional browser-based video editor. Open…"
+    },
+    {
+      "repo": "YILS-LIN/short-video-factory",
+      "desc": "一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of p…"
+    },
+    {
+      "repo": "GuanYixuan/pyJianYingDraft",
+      "desc": "轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 ht…"
+    },
+    {
+      "repo": "walterlow/freecut",
+      "desc": "FreeCut is a professional-grade video editor that runs entirel…"
+    },
+    {
+      "repo": "tin2tin/Pallaidium",
+      "desc": "PALLAIDIUM — a generative AI movie studio, seamlessly integrat…"
+    },
+    {
+      "repo": "pireel/pireel",
+      "desc": "Open-source AI video editor: captions, cuts, B-roll, export to…"
+    },
+    {
+      "repo": "MartinDelophy/ai-video-editor",
+      "desc": "Open-source, local-first video editor where creators and AI ag…"
+    },
+    {
+      "repo": "ColinGPT9/clips-studio",
+      "desc": "Clips Kitty: Free open-source AI video clipper. Local Opus Cli…"
+    },
+    {
+      "repo": "artbyjazi/autoclip",
+      "desc": "Open-source, local-first AI video clipper. Long video in, capt…"
+    },
+    {
+      "repo": "xixihhhh/hotclip",
+      "desc": "免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频,直发抖音/快手/B站/小红书/视频号…"
+    },
+    {
+      "repo": "KyaniteLabs/kinocut",
+      "desc": "Guardrailed video editing MCP server for AI agents. FFmpeg, Hy…"
+    },
+    {
+      "repo": "Anning01/playlet-clip",
+      "desc": "短剧自动化剪辑"
+    },
+    {
+      "repo": "kociii/youmedhub",
+      "desc": "一个基于 AI的视频分析、剪辑工具"
     }
   ],
   "writing": [
@@ -338,6 +746,50 @@
     {
       "repo": "muxia0396/novel-to-ai-short-drama-skill",
       "desc": "小说改编 AI 短剧：分镜、运镜、表演调度与时长"
+    },
+    {
+      "repo": "Narcooo/inkos",
+      "desc": "Story Creation AI Agent for novel, scripts, translation, inter…"
+    },
+    {
+      "repo": "zenstory-ai/oh-story-claudecode",
+      "desc": "网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code …"
+    },
+    {
+      "repo": "YILING0013/AI_NovelGenerator",
+      "desc": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔"
+    },
+    {
+      "repo": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+      "desc": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句…"
+    },
+    {
+      "repo": "AHEKOT/ComfyUI_VNCCS",
+      "desc": "Visual Novel Character Creation Suite is a comprehensive tool …"
+    },
+    {
+      "repo": "looplj/reveric",
+      "desc": "Agent Native 一站式 AI 小说，短剧桌面创作工作台"
+    },
+    {
+      "repo": "zenstory-ai/oh-story-dsh",
+      "desc": "DeepSeek Harness 故事创作插件：集成网文写作、短剧漫剧、小说改游戏与视频解说四个可视化工作台 ｜ DeepS…"
+    },
+    {
+      "repo": "xcLee001/SonicVale",
+      "desc": "一个开源的多角色、多情绪 AI 配音生成平台，支持小说、剧本、视频等内容的自动配音与导出。"
+    },
+    {
+      "repo": "JuneYaooo/rea-toon",
+      "desc": "AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 | Break down any short drama with …"
+    },
+    {
+      "repo": "tyxben/AI_novel",
+      "desc": "AI 小说推文自动化 - 小说一键转短视频（有声书+AI配图），适用于抖音/小红书"
+    },
+    {
+      "repo": "dav-niu474/huobao-drama-ai",
+      "desc": "🎬 AI短剧创作平台 — 从剧本到成片，一站式AI短剧制作工作台。支持70+大模型(GLM5.1/DeepSeek V4/Q…"
     }
   ],
   "directing": [
@@ -400,6 +852,162 @@
     {
       "repo": "zlbigger/story-video-director",
       "desc": "任意故事→图片素材、分镜、中文视听提示词与 API 清单"
+    },
+    {
+      "repo": "kaomei/stickman-video-director",
+      "desc": "AI Agent Skill (Claude Code, Codex & more): Turn any script in…"
+    },
+    {
+      "repo": "AIMixer/ComfyUI_MiniMaxH3_Director",
+      "desc": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax…"
+    },
+    {
+      "repo": "ddcat-ai/open-ai-canvas",
+      "desc": "【影策】面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。"
+    },
+    {
+      "repo": "tigerowo/infinite-canvas",
+      "desc": "开源 AI 创作工作台，集成无限画布、Agent、导演台、全景图、AI 生图、图片编辑、视频生成、画布编排等，兼容 Open…"
+    },
+    {
+      "repo": "869413421/ai-moive-studio",
+      "desc": "自然语言驱动的无限画布工作流 Agent，让 AI 视频创作第一次真正变成可编辑的工作流。 AICON 面向创作者，提供从剧…"
+    },
+    {
+      "repo": "morsoli/aimangastudio",
+      "desc": "一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。访问地址：https://aimangastudio.…"
+    },
+    {
+      "repo": "0xsline/StoryGen-Atelier",
+      "desc": "AI-assisted storyboard and video generation tool. Uses Gemini …"
+    },
+    {
+      "repo": "Blizaine/Maestro",
+      "desc": "An all-in-one, 100% local AI video, image, and music studio. D…"
+    },
+    {
+      "repo": "Swayingleaves/novanova-studio",
+      "desc": "[NovaNova Studio] 一个 Agent 驱动的集 AI图片生成、AI视频生成、无限画布、自定义模型 API 、…"
+    },
+    {
+      "repo": "jiguang132/storyai-3d-director-desk",
+      "desc": "A browser-based 3D director desk demo built with React, Vite, …"
+    },
+    {
+      "repo": "s1dashu/director",
+      "desc": "Direct complete videos with multi-mode workflows for research,…"
+    },
+    {
+      "repo": "Songssx/ComfyUI-MiniMaxH3-TimelineDirector",
+      "desc": "Editable reference-media timeline director for ComfyUI MiniMax…"
+    },
+    {
+      "repo": "ChrisChen667788/wind-comic",
+      "desc": "Multi-agent AI pipeline that turns one line of text into a fin…"
+    },
+    {
+      "repo": "UllrAI/CineGen-ShortDrama",
+      "desc": "AI Director - AI Manga, Anime, Animation, storyboard, Generati…"
+    },
+    {
+      "repo": "mileson/chaojifeng-video-design",
+      "desc": "超级峰的视频设计方法论｜面向 AI Agent 的视频主线、分镜、声画节奏、制作与交付验收 Skill"
+    },
+    {
+      "repo": "mangfufu/director-desk",
+      "desc": "AI 短剧白模预演与摄影机调度工具"
+    },
+    {
+      "repo": "yizhi-chengzi/video-ai-talking",
+      "desc": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。"
+    },
+    {
+      "repo": "Agions/dramaxis",
+      "desc": "🎬 Dramaxis (剧枢) — 电影级多智能体影视叙事与智能解说平台 (Tauri 2 + Rust + React 1…"
+    },
+    {
+      "repo": "ThinkFlowLab/OpenDirector",
+      "desc": "Build an easy-to-use workflow for the next generation of video…"
+    },
+    {
+      "repo": "Tenney95/AI-Canvas-tauri",
+      "desc": "AI画布、AI短剧创作工具：免费、轻量的无限画布，支持短剧剧本、角色管理、分镜、图像/视频生成和短剧剪辑，集成 ComfyU…"
+    },
+    {
+      "repo": "ganbo-gab/open-storyboard-canvas",
+      "desc": "Local-first AI storyboard infinite canvas for storyboarding: 3…"
+    },
+    {
+      "repo": "Yuuhann1999/agent-storyboard",
+      "desc": "本地优先的 Agent 视频分镜工作台：让 Codex、Claude Code 通过 MCP 写分镜、生成图片/视频素材和配…"
+    },
+    {
+      "repo": "Anning01/novelvids",
+      "desc": "从故事创作、角色资产管理、分镜设计，到 AI 图片与视频生成，打造完整的开源 AI 漫剧与短剧创作工作台。支持创作助手、无限…"
+    },
+    {
+      "repo": "liangdabiao/smy-seedance-storyboard",
+      "desc": "你给一个故事，它还你一套能直接拿去出图、出视频的上美影短剧制作文档。** \"上美影\"= 上海美术电影制片厂，就是《大闹天宫》…"
+    },
+    {
+      "repo": "HITsz-TMG/Anim-Director",
+      "desc": "Controllable Animation Video Generation with Large Models-base…"
+    },
+    {
+      "repo": "liangdabiao/seedance-storyboard-generator-realman",
+      "desc": "真人实拍质感AI短剧分镜生成器 - Seedance Realman Storyboard Skill 一个帮你把故事/剧本…"
+    },
+    {
+      "repo": "chillzhuang/Kinema",
+      "desc": "由 Codex、Claude Code 等工具驱动 AI漫剧、AI电影、AI解说的 AI大模型 影像智能体。控制章节与分镜的…"
+    },
+    {
+      "repo": "jeffstric/ZJT",
+      "desc": "Open-source, AI-agent-driven platform that turns a marketing b…"
+    },
+    {
+      "repo": "Deeyu/ai-costume-gallery-zh",
+      "desc": "AI 参考图库中文版｜服装（写实 1,407 套／动画 1,320 套）、脸型 1,499 张、姿势线稿与深度图各 1,43…"
+    },
+    {
+      "repo": "xiaozangao/3d-director-desk",
+      "desc": "浏览器端 3D 运镜与分镜导演台，支持人物、道具、轨迹点和动作时间轴"
+    },
+    {
+      "repo": "TFboy1/oh-my-minimaxh3-director",
+      "desc": "MiniMax H3 驱动的全自动 AI 视频导演流水线——自动分镜、工作流分配、参数确认、批量生成、剪映一键拼合。"
+    },
+    {
+      "repo": "kingselyjoe/video-shotcraft-dsh",
+      "desc": "面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotio…"
+    },
+    {
+      "repo": "renmengwen/MuseDock",
+      "desc": "MuseDock 是一个本地优先的 AI 短视频创作与编辑工作台。它将素材整理、脚本与分镜、配音字幕、画面生成、视频渲染和后…"
+    },
+    {
+      "repo": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+      "desc": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2V…"
+    },
+    {
+      "repo": "wangzai-double-milk/Vibefilming",
+      "desc": "Open-source AI director agent that turns one plain sentence in…"
+    },
+    {
+      "repo": "murongg/openframe",
+      "desc": "开源免费的 AI 漫剧创作工作台：从剧本到角色/场景、分镜、视频生成与导出（FCPXML/EDL），支持 Web 与桌面端。"
+    },
+    {
+      "repo": "sgyno09-source/reference-video-director",
+      "desc": "reference video director"
+    },
+    {
+      "repo": "SkyNotSilent/insightcut-jianying-image-video",
+      "desc": "InsightCut — AI 图片视频与可编辑剪映草稿工作台：文稿转分镜、图片、配音和字幕，支持 Jianying dra…"
+    },
+    {
+      "repo": "lixiaoxiao9888-create/forest-laoli-h3",
+      "desc": "漫剧老李 · MiniMax H3（海螺 3.0）短剧全流程 Skill v2.1.1 · forest-laoli-h3 …"
     }
   ],
   "prompts": [
@@ -434,6 +1042,94 @@
     {
       "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
       "desc": "100+ 精选 Seedance 2.5 提示词，附真实出片"
+    },
+    {
+      "repo": "wide-trace/open-higgsfield",
+      "desc": "A studio for image and video generation — one prompt bar, each…"
+    },
+    {
+      "repo": "threerocks/hand-drawn-styles",
+      "desc": "Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂…"
+    },
+    {
+      "repo": "YouMind-OpenLab/awesome-seedance-2-prompts",
+      "desc": "🎬 2000+ curated Seedance 2.0 video generation prompts — cinema…"
+    },
+    {
+      "repo": "wfcz10086/AI-automatically-generates-novels",
+      "desc": "一个基于ai +提示词 的aigc创作生产力工具， 已经有数百家工作室和个人作者通过该工具实现了快速、批量生成小说、剧本、镜头。"
+    },
+    {
+      "repo": "liangdabiao/make-prompt-seedance2",
+      "desc": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语和通用SKILL，整合了 See…"
+    },
+    {
+      "repo": "raojiacui/prompt-lens",
+      "desc": "反推出AI视频的提示词，并配有音频分析功能，可提取视频中的台词文案，并且一句话就可剪辑出你要的视频"
+    },
+    {
+      "repo": "seesee75-commits/ComfyUI-MiniMaxH3-Director",
+      "desc": "A timeline editor for MiniMax H3 inside ComfyUI - storyboard p…"
+    },
+    {
+      "repo": "nutllwhy/seedance-tvc-director",
+      "desc": "A Seedance 2.5 TVC director Skill for 15s, 30s and custom comm…"
+    },
+    {
+      "repo": "ethanfel/ComfyUI-MiniMax-H3-Guide",
+      "desc": "Guided MiniMax H3 prompt preparation node for ComfyUI"
+    },
+    {
+      "repo": "zhouwei713/seedance-prompt",
+      "desc": "Hermes skill for realistic AI video prompts for Seedance and t…"
+    },
+    {
+      "repo": "duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer",
+      "desc": "Multimodal MiniMax H3 prompt writer for ComfyUI with local and…"
+    },
+    {
+      "repo": "BMB12d3/minimax-h3-prompt-composer",
+      "desc": "Free offline prompt composer for MiniMax H3 video generation i…"
+    },
+    {
+      "repo": "1038lab/ComfyUI-MiniMax-H3-Promptor",
+      "desc": "A powerful, ComfyUI Custom node automation suite for generatin…"
+    },
+    {
+      "repo": "neopen/story-shot-agent",
+      "desc": "剧本分镜智能体（PenShot）：电影/动漫/短剧/小说→分镜片段→视频提示词。基于 LLM 通过 LangGraph+Ll…"
+    },
+    {
+      "repo": "XiakeMan777/xiakeman-ai-short-drama",
+      "desc": "AI漫剧 / AI仿真人短剧/Seedance2.0专用创作工具：剧本创作、剧本分析、小说改编、AI 分镜、图片资产和 Se…"
+    },
+    {
+      "repo": "SkyNotSilent/awesome-MiniMax-H3-cases",
+      "desc": "2801 playable MiniMax H3 / Hailuo H3 cases, 731 complete publi…"
+    },
+    {
+      "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+      "desc": "Autonomous AI movie studio — turn a text prompt into a fully p…"
+    },
+    {
+      "repo": "wyuzhi/qisi-video-remix",
+      "desc": "视频创意改编 Agent Skill：参考视频 → 剧本 → 分镜 → 分段生成提示词。By qisi"
+    },
+    {
+      "repo": "jijiutong/ai-visual-director",
+      "desc": "AI Visual Director Skill: Generate storyboards, characters, sc…"
+    },
+    {
+      "repo": "Fangx-AI/cut-director",
+      "desc": "CutDirector: a ChatCut skill for talking-head editing, with re…"
+    },
+    {
+      "repo": "woyin2024/lengyi-seedance2.5-prompt",
+      "desc": "专为Seedance 2.5量身打造的提示词skill，可以把任何想法/主题/小说片段，变成一支高级的30秒电影。A pro…"
+    },
+    {
+      "repo": "toki-plus/ai-video-workflow",
+      "desc": "全自动AI原生视频生成工作流，集成文生图(LibLib)/图生视频(即梦)/文生音乐(即梦)和AI提示词生成(豆包)，一键创…"
     }
   ]
 }

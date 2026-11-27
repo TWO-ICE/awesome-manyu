@@ -2,19 +2,18 @@ name: Refresh data
 
 on:
   schedule:
-    - cron: "0 1 * * 1" # 每周一 09:00 UTC+8：刷新数据 + 发现扫描（discover 有 needs: refresh，只触发一次）
+    - cron: "0 1 * * 1" # 每周一 09:00 UTC+8：自动发现入库 + 刷新数据
   workflow_dispatch: {}
 
 permissions:
   contents: write
-  issues: write
 
 concurrency:
   group: refresh
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  weekly:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,6 +22,13 @@ jobs:
         with:
           python-version: "3.12"
 
+      # 渠道 1/2/3：姐妹清单 diff + GitHub 搜索 → 达标项目自动入库 data/projects.json
+      - name: Discover and apply new projects
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/discover.py --apply > /tmp/report.md
+
+      # 用最新数据源（含本周新增）刷新 README 全部表格与星数
       - name: Refresh tables
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -32,49 +38,11 @@ jobs:
         run: |
           git config user.name "manyu-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add README.md
+          git pull --rebase origin main
+          git add data/projects.json README.md CHANGELOG.md
           if git diff --cached --quiet; then
-            echo "无变化，跳过提交"
+            echo "本周无新增、无数据变化，跳过提交"
           else
-            git commit -m "chore: weekly data refresh [skip ci]"
+            git commit -m "chore: weekly auto-update [skip ci]"
             git push
-          fi
-
-  discover:
-    runs-on: ubuntu-latest
-    needs: refresh
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Scan for new candidates
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/discover.py > report.md
-
-      - name: Ensure discovery label
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh label list --json name --jq '.[].name' | grep -qx discovery || \
-            gh label create discovery --description "每周自动发现的项目候选报告" --color 1D76DB
-
-      - name: Create or update weekly discovery issue
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          DATE=$(date +%F)
-          number=$(gh issue list --label discovery --state open --json number --jq '.[0].number // empty')
-          if [ -n "$number" ]; then
-            # 复用同一个 Issue，标题和正文刷成本周报告——不堆叠、不覆盖历史（旧报告可看 Issue 编辑记录）
-            gh issue edit "$number" --title "🛰️ 每周发现报告 · $DATE" --body-file report.md
-            echo "已更新发现报告 Issue #$number"
-          else
-            gh issue create \
-              --title "🛰️ 每周发现报告 · $DATE" \
-              --body-file report.md \
-              --label discovery
           fi

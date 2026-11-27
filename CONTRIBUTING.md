@@ -2,6 +2,8 @@
 
 感谢关注 Awesome 漫剧！收录新项目请按下面的标准来。
 
+> 🤖 **自动收录**：每周一 GitHub Actions 会自动扫描姐妹清单 + GitHub 搜索，把达标新项目（≥100⭐/年内活跃/非 fork）直接归类入库，明细见 [CHANGELOG.md](./CHANGELOG.md)。你仍可通过 PR / Issue 补充被自动扫描遗漏的项目。
+
 ## 收录标准（满足其一）
 
 1. GitHub 星数 ≥ 200；
