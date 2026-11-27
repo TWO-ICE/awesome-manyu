@@ -38,11 +38,11 @@ jobs:
         run: |
           git config user.name "manyu-bot"
           git config user.email "actions@users.noreply.github.com"
-          git pull --rebase origin main
           git add data/projects.json README.md CHANGELOG.md
           if git diff --cached --quiet; then
             echo "本周无新增、无数据变化，跳过提交"
           else
             git commit -m "chore: weekly auto-update [skip ci]"
+            git pull --rebase --autostash origin main
             git push
           fi
