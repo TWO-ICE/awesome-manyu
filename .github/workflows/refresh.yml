@@ -62,14 +62,16 @@ jobs:
           gh label list --json name --jq '.[].name' | grep -qx discovery || \
             gh label create discovery --description "每周自动发现的项目候选报告" --color 1D76DB
 
-      - name: Create weekly discovery issue
+      - name: Create or update weekly discovery issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           DATE=$(date +%F)
-          existing=$(gh issue list --label discovery --state open --json number --jq 'length')
-          if [ "$existing" -gt 0 ]; then
-            echo "已有未处理的发现报告 Issue，跳过创建（避免堆积）"
+          number=$(gh issue list --label discovery --state open --json number --jq '.[0].number // empty')
+          if [ -n "$number" ]; then
+            # 复用同一个 Issue，标题和正文刷成本周报告——不堆叠、不覆盖历史（旧报告可看 Issue 编辑记录）
+            gh issue edit "$number" --title "🛰️ 每周发现报告 · $DATE" --body-file report.md
+            echo "已更新发现报告 Issue #$number"
           else
             gh issue create \
               --title "🛰️ 每周发现报告 · $DATE" \
