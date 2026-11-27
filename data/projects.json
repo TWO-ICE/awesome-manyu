@@ -373,6 +373,10 @@
     {
       "repo": "thaakeno/ComfyUI-MiniMax-H3-Studio",
       "desc": "Reference-aware MiniMax H3 still-image production studio for C…"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and bac…"
     }
   ],
   "video": [
@@ -637,6 +641,10 @@
     {
       "repo": "JuneYaooo/awesome-ai-media-cn",
       "desc": "AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。"
+    },
+    {
+      "repo": "my-name-is-alan/iDuanJu",
+      "desc": "i短剧：免费开源的 iOS 多源短剧/视频/漫画/Telegram 聚合播放器（SwiftUI + QuickJS 插件沙箱…"
     }
   ],
   "compose": [
@@ -1008,6 +1016,14 @@
     {
       "repo": "lixiaoxiao9888-create/forest-laoli-h3",
       "desc": "漫剧老李 · MiniMax H3（海螺 3.0）短剧全流程 Skill v2.1.1 · forest-laoli-h3 …"
+    },
+    {
+      "repo": "shijue-aid/aid-studio",
+      "desc": "开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音、一键成片、多模型接入…"
+    },
+    {
+      "repo": "huangserva/ComfyUI_MiniMaxH3_Director",
+      "desc": "ComfyUI MiniMax H3 Director workflow"
     }
   ],
   "prompts": [
@@ -1130,6 +1146,14 @@
     {
       "repo": "toki-plus/ai-video-workflow",
       "desc": "全自动AI原生视频生成工作流，集成文生图(LibLib)/图生视频(即梦)/文生音乐(即梦)和AI提示词生成(豆包)，一键创…"
+    },
+    {
+      "repo": "basketikun/infinite-canvas",
+      "desc": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示…"
+    },
+    {
+      "repo": "ZeroLu/awesome-seedance",
+      "desc": "The ultimate collection of high-fidelity Seedance 2.0 prompts …"
     }
   ]
 }

@@ -23,7 +23,7 @@
 > 中文世界最全的开源漫剧工具地图：**按生产流水线分类 · License 红绿灯 · 数据每周自动刷新**
 
 <!-- manyu:meta -->
-📊 收录 **271** 个项目 ｜ 数据更新于 **2026-11-27** ｜ 由 GitHub Actions 每周自动刷新
+📊 收录 **277** 个项目 ｜ 数据更新于 **2026-11-27** ｜ 由 GitHub Actions 每周自动刷新
 <!-- /manyu:meta -->
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](./LICENSE)
@@ -60,27 +60,27 @@
 <!-- manyu:table:allinone -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | 83734 | 全球最大开源 AI 视频生产系统：12 条生产流水线、100+ 工具、Agent 驱动，一句话创意到成片 | 📚 AGPL-3.0 |
-| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 22994 | 无限画布 AI 视频创作平台：剧本创作、智能分镜、角色场景资产管理、生图生视频 | ✅ MIT |
+| [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | 83738 | 全球最大开源 AI 视频生产系统：12 条生产流水线、100+ 工具、Agent 驱动，一句话创意到成片 | 📚 AGPL-3.0 |
+| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 22997 | 无限画布 AI 视频创作平台：剧本创作、智能分镜、角色场景资产管理、生图生视频 | ✅ MIT |
 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 18038 | 一句话生成完整短剧：剧本→分镜→视频→配音→FFmpeg 合成全自动 | ⚠️ CC BY-NC-SA |
 | [waoowaoo](https://github.com/waooAI/waoowaoo) | 14991 | 工业级全流程 AI 影视生产平台，短片到真人级影视 | ⚠️ Elastic-2.0 |
-| [dramaclaw](https://github.com/dramaclaw/dramaclaw) | 7226 | 通用 AIGC 视频引擎：剧本到成片一条流水线 | ⚠️ Elastic-2.0 |
-| [Jellyfish](https://github.com/Forget-C/Jellyfish) | 7356 | 端到端生产工作台：章节脚本→分镜与关联资产 | ✅ Apache-2.0 |
+| [dramaclaw](https://github.com/dramaclaw/dramaclaw) | 7227 | 通用 AIGC 视频引擎：剧本到成片一条流水线 | ⚠️ Elastic-2.0 |
+| [Jellyfish](https://github.com/Forget-C/Jellyfish) | 7357 | 端到端生产工作台：章节脚本→分镜与关联资产 | ✅ Apache-2.0 |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | 6799 | 小说/剧本→角色场景道具资产→分镜→视频→剪映草稿 | 📚 AGPL-3.0 |
 | [printfilm](https://github.com/yi1108/printfilm) | 7151 | 模板驱动 AI 短视频/漫剧平台（FastAPI），含计费与管理后台、开放 API | ✅ MIT |
 | [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | 4881 | AI 影视生产级工具，支持 Seedance 2.0，剧本到成片批量化 | 📚 AGPL-3.0 |
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | 2563 | 纯 JavaScript 本地运行，数据零上传，支持 AI 真人剧+漫剧 | ✅ MIT |
 | [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) | 1987 | AI 动态漫画生成器：脚本→分格→成片 | ✅ Apache-2.0 |
-| [VideoClaw](https://github.com/HITsz-TMG/VideoClaw) | 1926 | AI 全自动化视频生成员工：一个想法→完整短剧/漫剧 | ✅ MIT |
+| [VideoClaw](https://github.com/HITsz-TMG/VideoClaw) | 1927 | AI 全自动化视频生成员工：一个想法→完整短剧/漫剧 | ✅ MIT |
 | [lumenx](https://github.com/alibaba/lumenx) | 1513 | 阿里开源：小说文本→剧本分析→角色定制→分镜→动态漫剧视频 | ✅ MIT |
 | [aid-studio](https://github.com/shijue-aid/aid-studio) | 1831 | 自托管 AI 短剧/动态漫画工作室，Docker/systemd 部署，多模型多供应商 | ✅ MIT |
 | [OpenMontage](https://github.com/charliewwdev/OpenMontage) | 71 | 自托管AI短剧工坊：剧本→角色场景道具→分镜→视频→配音剪辑 | 📚 AGPL-3.0 |
-| [ViMax](https://github.com/HKUDS/ViMax) | 13042 | Agentic 视频生成：导演 Agent 驱动，从想法到成片自动化 | ✅ MIT |
+| [ViMax](https://github.com/HKUDS/ViMax) | 13043 | Agentic 视频生成：导演 Agent 驱动，从想法到成片自动化 | ✅ MIT |
 | [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) | 2483 | 工业级一站式 AI 短剧导演：定妆→搭景→分镜→成片全程可控 | ⚠️ 自定义（读原文） |
 | [ai_story](https://github.com/xhongc/ai_story) | 2133 | AI 视频/动漫/漫剧自动化生成工具，故事输入成片输出 | ⚠️ 自定义（读原文） |
 | [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) | 1824 | 融光：基于 Agent 的全流程 AI 短剧/漫剧/视频创作平台 | ✅ MIT |
 | [LingGuo-Drama](https://github.com/LingGuoAI/LingGuo-Drama) | 1692 | 灵果短剧 AI：一句话生成完整短剧/漫剧 | ⚠️ 自定义（读原文） |
-| [infinite-creation](https://github.com/SwotAtmk/infinite-creation) | 426 | 提交小说/剧本，本地 ComfyUI 全流程出片 | ⚠️ 自定义（读原文） |
+| [infinite-creation](https://github.com/SwotAtmk/infinite-creation) | 427 | 提交小说/剧本，本地 ComfyUI 全流程出片 | ⚠️ 自定义（读原文） |
 | [VideoAgent](https://github.com/HKUDS/VideoAgent) | 2160 | [EMNLP2026] "VideoAgent: All-in-One Agentic Framework for Vide… | ✅ MIT |
 | [ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) | 865 | End-to-end AI short-video production pipeline. FastAPI orchest… | ✅ MIT |
 | [TapCanvas](https://github.com/anymouschina/TapCanvas) | 733 | 面向 AI 影视、漫剧与多模态内容生产的 Agent 原生无限画布, 主推一键成片 agent，编排可控 | ✅ MIT |
@@ -89,7 +89,7 @@
 | [ViralForge](https://github.com/fendouai/ViralForge) | 559 | Agent-native viral video studio: deconstruct scripts, replicat… | ✅ Apache-2.0 |
 | [aipdd-drama-agent](https://github.com/liujh0729-jpg/aipdd-drama-agent) | 524 | aipdd开源的集成画布与agent，实现短剧制作 | ⚠️ 自定义（读原文） |
 | [motion-previs-studio](https://github.com/wassermanproductions/motion-previs-studio) | 386 | Open-source desktop app for AI-film motion, depth, pose, and c… | ✅ Apache-2.0 |
-| [open-apex-drama](https://github.com/Sxuan-Coder/open-apex-drama) | 329 | 第三方红果短剧客户端，免登录、免广告、免费使用，支持真人剧、AI漫剧、AI短剧等多种短剧。支持Windows和安卓双端播放 | 📚 AGPL-3.0 |
+| [open-apex-drama](https://github.com/Sxuan-Coder/open-apex-drama) | 330 | 第三方红果短剧客户端，免登录、免广告、免费使用，支持真人剧、AI漫剧、AI短剧等多种短剧。支持Windows和安卓双端播放 | 📚 AGPL-3.0 |
 | [Drama3-Studio](https://github.com/nkxx188/Drama3-Studio) | 289 | The simplest, most user-friendly Drama3 creation tool, deeply … | ✅ MIT |
 | [OpenReels](https://github.com/tsensei/OpenReels) | 250 | Open-source AI pipeline that turns any topic into a publish-re… | ✅ MIT |
 | [hongguo-android-cast](https://github.com/skydeadpeng/hongguo-android-cast) | 196 | 红果短剧（Hongguo Drama）+ 黄果漫剧（Huangguo）多端客户端：Android 手机 / Android … | 📚 GPL-3.0 |
@@ -108,16 +108,16 @@
 |---|---|---|---|
 | [webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 8092 | 基于 Claude Code 的长篇网文辅助创作系统：一致性与长程记忆 | 📚 GPL-3.0 |
 | [human-writing](https://github.com/KKKKhazix/human-writing) | 4776 | 让 AI 写的中文读起来像一个具体的人，通用创作与改稿 Skill | ✅ MIT |
-| [sepia](https://github.com/Nanako0129/sepia) | 3964 | 去 AI 味写作 Skill，任意 Agent 可装 | ✅ MIT |
+| [sepia](https://github.com/Nanako0129/sepia) | 3965 | 去 AI 味写作 Skill，任意 Agent 可装 | ✅ MIT |
 | [screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 2195 | 专业影视编剧 Agent 技能集 | ✅ MIT |
-| [short-drama](https://github.com/0xsline/short-drama) | 1687 | 专业短剧剧本创作：选题立项→分集撰写→质量自检→合规审核→海外 | ✅ MIT |
+| [short-drama](https://github.com/0xsline/short-drama) | 1688 | 专业短剧剧本创作：选题立项→分集撰写→质量自检→合规审核→海外 | ✅ MIT |
 | [shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master) | 1546 | 山音超级编剧：全格式影视编剧技能，1-3 分钟到长剧全覆盖 | ✅ MIT |
 | [Chinese-WebNovel-Skill](https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill) | 1072 | 中文网文小说写作 skill | ⚠️ 自定义（读原文） |
 | [narrative-to-screen-reader](https://github.com/zhlmi/narrative-to-screen-reader) | 141 | 叙事转译：把手上的故事翻译成影视开发语言 | ⚠️ 自定义（读原文） |
 | [novel-to-manju](https://github.com/senmanx/novel-to-manju) | 86 | 小说转漫剧短视频全流程提示词 Skill：爆款改文→剧本→人物场景资产 | ⚠️ 自定义（读原文） |
 | [novel-to-ai-short-drama-skill](https://github.com/muxia0396/novel-to-ai-short-drama-skill) | 35 | 小说改编 AI 短剧：分镜、运镜、表演调度与时长 | ✅ MIT |
 | [inkos](https://github.com/Narcooo/inkos) | 11469 | Story Creation AI Agent for novel, scripts, translation, inter… | 📚 AGPL-3.0 |
-| [oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 8969 | 网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code … | ✅ MIT |
+| [oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 8970 | 网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code … | ✅ MIT |
 | [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) | 6554 | 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔 | 📚 AGPL-3.0 |
 | [AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | 3570 | 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句… | 📚 AGPL-3.0 |
 | [ComfyUI_VNCCS](https://github.com/AHEKOT/ComfyUI_VNCCS) | 1809 | Visual Novel Character Creation Suite is a comprehensive tool … | ✅ MIT |
@@ -134,13 +134,13 @@
 <!-- manyu:table:skills -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 7213 | AI 短剧制作 skill 集合：拆角色、排大纲、出场景道具设定、写剧本、切分镜 | ✅ Apache-2.0 |
-| [drama-skills](https://github.com/zenstory-ai/drama-skills) | 5108 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、图/视频提示词、审查，适配 Claude Code 与 Codex | ✅ MIT |
+| [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 7215 | AI 短剧制作 skill 集合：拆角色、排大纲、出场景道具设定、写剧本、切分镜 | ✅ Apache-2.0 |
+| [drama-skills](https://github.com/zenstory-ai/drama-skills) | 5109 | 短剧/漫剧 skill 合集：剧本、角色资产、分镜、图/视频提示词、审查，适配 Claude Code 与 Codex | ✅ MIT |
 | [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | 2549 | 中文故事文案→手绘白板动画视频 | ✅ MIT |
 | [ai-shotlive](https://github.com/sorker/ai-shotlive) | 355 | 小说→剧本→分镜→提示词→关键帧→视频→AI 剪辑一站式 | ⚠️ 自定义（读原文） |
-| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | 3290 | 漫剧老李 AIGC 创作全流程多技能套装 | ✅ MIT |
+| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | 3293 | 漫剧老李 AIGC 创作全流程多技能套装 | ✅ MIT |
 | [XiaoLuo-AI-Drama-Skill](https://github.com/zhurui0523/XiaoLuo-AI-Drama-Skill) | 534 | 小罗 AI 漫剧创作技能包 | ⚠️ 自定义（读原文） |
-| [short-drama-factory](https://github.com/lixiaoxiao9888-create/short-drama-factory) | 698 | Short-Drama Factory：抖音/红果爆款短剧工厂 | ✅ MIT |
+| [short-drama-factory](https://github.com/lixiaoxiao9888-create/short-drama-factory) | 699 | Short-Drama Factory：抖音/红果爆款短剧工厂 | ✅ MIT |
 | [screen-creative-skills](https://github.com/VanGong1999/screen-creative-skills) | 527 | 影视创作技能集合：编剧到导演全链路 | ✅ MIT |
 | [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | 431 | 神仙鱼 AI 短剧工业流水线 Claude Skill | ✅ MIT |
 | [Micro-Drama-Skills](https://github.com/zhaihao118/Micro-Drama-Skills) | 345 | AI 驱动的短剧全流程自动化制作系统（Claude Skills） | ⚠️ 自定义（读原文） |
@@ -153,12 +153,12 @@
 | [ai-short-drama](https://github.com/Hao0321/ai-short-drama) | 85 | AI 短剧故事架构与剧本创作 skill | ✅ MIT |
 | [open-source-video-gen-skill](https://github.com/mini-yifan/open-source-video-gen-skill) | 43 | Vibe Video：一句话想法→成片，开源 MiniMax H3 方案 | ⚠️ 自定义（读原文） |
 | [spark-video](https://github.com/JohnKeating1997/spark-video) | 35 | AI 视频生产 skill：premise→成片 | ⚠️ 自定义（读原文） |
-| [humanizer](https://github.com/blader/humanizer) | 74121 | Agent skill that removes signs of AI-generated writing from text | ✅ MIT |
-| [Recordly](https://github.com/webadderallorg/Recordly) | 37556 | Create polished demo videos without editing skills. Mac/Window… | 📚 AGPL-3.0 |
-| [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 22955 | AI video skill for Claude Code & Codex — cinematic, editable p… | ✅ Apache-2.0 |
+| [humanizer](https://github.com/blader/humanizer) | 74128 | Agent skill that removes signs of AI-generated writing from text | ✅ MIT |
+| [Recordly](https://github.com/webadderallorg/Recordly) | 37558 | Create polished demo videos without editing skills. Mac/Window… | 📚 AGPL-3.0 |
+| [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 22963 | AI video skill for Claude Code & Codex — cinematic, editable p… | ✅ Apache-2.0 |
 | [capcut-mate](https://github.com/Hommy-master/capcut-mate) | 2214 | 开源剪映小助手｜剪映API | 扣子插件 | Open-source CapCut automation toolkit t… | ✅ Apache-2.0 |
 | [violin](https://github.com/shang-zhu/violin) | 1089 | Open-source Video Translation Skill | ✅ MIT |
-| [Nomi](https://github.com/aqm857886159/Nomi) | 670 | Open-source AI video workbench. Bring any model or your local … | 📚 AGPL-3.0 |
+| [Nomi](https://github.com/aqm857886159/Nomi) | 671 | Open-source AI video workbench. Bring any model or your local … | 📚 AGPL-3.0 |
 | [DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent) | 532 | AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill | ✅ MIT |
 | [h3lite](https://github.com/Rimagination/h3lite) | 528 | A hardware-aware Codex skill for local MiniMax H3 video genera… | ✅ MIT |
 | [marketplace](https://github.com/aiskillstore/marketplace) | 501 | Security-audited skills for Claude, Codex & Claude Code. One-c… | ⚠️ 自定义（读原文） |
@@ -188,7 +188,7 @@
 | [muse-video-skill](https://github.com/LuoJiangYong/muse-video-skill) | 216 | 视频创作虚拟剧组引擎：创意→剧本/分镜/美术/提示词 | ✅ MIT |
 | [storyboard-director](https://github.com/kevinchin12/storyboard-director) | 37 | 提示词可控的分镜 skill（Codex） | ✅ MIT |
 | [story-video-director](https://github.com/zlbigger/story-video-director) | 35 | 任意故事→图片素材、分镜、中文视听提示词与 API 清单 | ✅ MIT |
-| [stickman-video-director](https://github.com/kaomei/stickman-video-director) | 8609 | AI Agent Skill (Claude Code, Codex & more): Turn any script in… | ✅ MIT |
+| [stickman-video-director](https://github.com/kaomei/stickman-video-director) | 8614 | AI Agent Skill (Claude Code, Codex & more): Turn any script in… | ✅ MIT |
 | [ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) | 2924 | Multi-segment MiniMax H3 Director for official ComfyUI MiniMax… | ✅ Apache-2.0 |
 | [open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) | 2064 | 【影策】面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。 | ✅ MIT |
 | [infinite-canvas](https://github.com/tigerowo/infinite-canvas) | 1805 | 开源 AI 创作工作台，集成无限画布、Agent、导演台、全景图、AI 生图、图片编辑、视频生成、画布编排等，兼容 Open… | 📚 AGPL-3.0 |
@@ -207,7 +207,7 @@
 | [video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking) | 522 | 想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。 | ✅ MIT |
 | [dramaxis](https://github.com/Agions/dramaxis) | 468 | 🎬 Dramaxis (剧枢) — 电影级多智能体影视叙事与智能解说平台 (Tauri 2 + Rust + React 1… | ✅ MIT |
 | [OpenDirector](https://github.com/ThinkFlowLab/OpenDirector) | 465 | Build an easy-to-use workflow for the next generation of video… | ✅ Apache-2.0 |
-| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | 414 | AI画布、AI短剧创作工具：免费、轻量的无限画布，支持短剧剧本、角色管理、分镜、图像/视频生成和短剧剪辑，集成 ComfyU… | ⚠️ 自定义（读原文） |
+| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | 415 | AI画布、AI短剧创作工具：免费、轻量的无限画布，支持短剧剧本、角色管理、分镜、图像/视频生成和短剧剪辑，集成 ComfyU… | ⚠️ 自定义（读原文） |
 | [open-storyboard-canvas](https://github.com/ganbo-gab/open-storyboard-canvas) | 407 | Local-first AI storyboard infinite canvas for storyboarding: 3… | ⚠️ 自定义（读原文） |
 | [agent-storyboard](https://github.com/Yuuhann1999/agent-storyboard) | 404 | 本地优先的 Agent 视频分镜工作台：让 Codex、Claude Code 通过 MCP 写分镜、生成图片/视频素材和配… | ✅ MIT |
 | [novelvids](https://github.com/Anning01/novelvids) | 395 | 从故事创作、角色资产管理、分镜设计，到 AI 图片与视频生成，打造完整的开源 AI 漫剧与短剧创作工作台。支持创作助手、无限… | ✅ MIT |
@@ -227,6 +227,8 @@
 | [reference-video-director](https://github.com/sgyno09-source/reference-video-director) | 138 | reference video director | ⚠️ 自定义（读原文） |
 | [insightcut-jianying-image-video](https://github.com/SkyNotSilent/insightcut-jianying-image-video) | 124 | InsightCut — AI 图片视频与可编辑剪映草稿工作台：文稿转分镜、图片、配音和字幕，支持 Jianying dra… | ✅ MIT |
 | [forest-laoli-h3](https://github.com/lixiaoxiao9888-create/forest-laoli-h3) | 111 | 漫剧老李 · MiniMax H3（海螺 3.0）短剧全流程 Skill v2.1.1 · forest-laoli-h3 … | ✅ MIT |
+| [aid-studio](https://github.com/shijue-aid/aid-studio) | 1831 | 开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音、一键成片、多模型接入… | ✅ MIT |
+| [ComfyUI_MiniMaxH3_Director](https://github.com/huangserva/ComfyUI_MiniMaxH3_Director) | 1586 | ComfyUI MiniMax H3 Director workflow | ✅ Apache-2.0 |
 <!-- /manyu:table:directing -->
 
 ### 2.4 💬 提示词库
@@ -242,7 +244,7 @@
 | [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) | 469 | 411 个提示词 · 15 模型 · 7 个 Claude skill，企业项目实战沉淀 | ✅ MIT |
 | [minimax-h3-prompt-skill-T8](https://github.com/T8mars/minimax-h3-prompt-skill-T8) | 357 | MiniMax H3 Creative DNA 提示词案例 | ✅ MIT |
 | [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 276 | 100+ 精选 Seedance 2.5 提示词，附真实出片 | ⚠️ 自定义（读原文） |
-| [open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 7005 | A studio for image and video generation — one prompt bar, each… | ⚠️ 自定义（读原文） |
+| [open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 7006 | A studio for image and video generation — one prompt bar, each… | ⚠️ 自定义（读原文） |
 | [hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles) | 2752 | Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂… | ✅ MIT |
 | [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 2260 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinema… | ⚠️ 自定义（读原文） |
 | [AI-automatically-generates-novels](https://github.com/wfcz10086/AI-automatically-generates-novels) | 974 | 一个基于ai +提示词 的aigc创作生产力工具， 已经有数百家工作室和个人作者通过该工具实现了快速、批量生成小说、剧本、镜头。 | ✅ Apache-2.0 |
@@ -264,6 +266,8 @@
 | [cut-director](https://github.com/Fangx-AI/cut-director) | 184 | CutDirector: a ChatCut skill for talking-head editing, with re… | ⚠️ 自定义（读原文） |
 | [lengyi-seedance2.5-prompt](https://github.com/woyin2024/lengyi-seedance2.5-prompt) | 148 | 专为Seedance 2.5量身打造的提示词skill，可以把任何想法/主题/小说片段，变成一支高级的30秒电影。A pro… | ✅ MIT |
 | [ai-video-workflow](https://github.com/toki-plus/ai-video-workflow) | 114 | 全自动AI原生视频生成工作流，集成文生图(LibLib)/图生视频(即梦)/文生音乐(即梦)和AI提示词生成(豆包)，一键创… | ✅ MIT |
+| [infinite-canvas](https://github.com/basketikun/infinite-canvas) | 10717 | 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示… | ✅ MIT |
+| [awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 2883 | The ultimate collection of high-fidelity Seedance 2.0 prompts … | ✅ MIT |
 <!-- /manyu:table:prompts -->
 
 ## 三、生产流水线单环节工具
@@ -279,7 +283,7 @@
 | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) | 6720 | 图像提示词适配器，角色参考控制的事实标准 | ✅ Apache-2.0 🏢 |
 | [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) | 6504 | 一致性角色 + 漫画序列生成，连续分格不换脸 | ✅ Apache-2.0 🏢 |
 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 36501 | Uncensored AI Image & Video Generator — Free AI image & video … | ✅ MIT |
-| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | 29168 | Invoke is a leading creative engine that uses image and video … | ✅ Apache-2.0 |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | 29169 | Invoke is a leading creative engine that uses image and video … | ✅ Apache-2.0 |
 | [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) | 19597 | Bring portraits to life! | ⚠️ 自定义（读原文） |
 | [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | 13444 | Enjoy the magic of Diffusion models! | ✅ Apache-2.0 |
 | [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) | 8487 | ​​Unlimited-length talking video generation​​ that supports im… | ✅ Apache-2.0 |
@@ -294,6 +298,7 @@
 | [awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) | 829 | 50+ open-source generative AI apps you can clone, deploy, and … | ✅ MIT |
 | [ComfyUI-WanAnimatePlus](https://github.com/wuwukaka/ComfyUI-WanAnimatePlus) | 427 | Seamless video connection and multi-reference image support fo… | ✅ Apache-2.0 |
 | [ComfyUI-MiniMax-H3-Studio](https://github.com/thaakeno/ComfyUI-MiniMax-H3-Studio) | 147 | Reference-aware MiniMax H3 still-image production studio for C… | ✅ MIT |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148832 | The most powerful and modular diffusion model GUI, api and bac… | 📚 GPL-3.0 |
 <!-- /manyu:table:img -->
 
 ### 3.2 🎥 开源视频生成模型速查
@@ -306,7 +311,7 @@
 | [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | 12836 | 24GB（量化） | ⚠️ 自定义（读原文） | 腾讯，画质上限高，电影感强 |
 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | 11508 | 12-16GB | ✅ Apache-2.0 | 秒级出片，支持同步生成音频 |
 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 7849 | 14GB+ | ⚠️ 自定义（读原文） | 昆仑万维，电影感镜头运动，支持无限时长 |
-| [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | 4619 | 14GB（卸载） | ⚠️ 自定义（读原文） | 轻量版，消费级显卡可跑 |
+| [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | 4620 | 14GB（卸载） | ⚠️ 自定义（读原文） | 轻量版，消费级显卡可跑 |
 | [Index-anisora](https://github.com/bilibili/Index-anisora) | 2547 | — | ✅ Apache-2.0 | B 站二次元动漫风格视频模型，漫剧对口 |
 | [seedance-2.0](https://github.com/Emily2040/seedance-2.0) | 8314 | — | ✅ MIT | Comprehensive production pipeline for quad-modal AI filmmaking… |
 | [FastVideo](https://github.com/hao-ai-lab/FastVideo) | 4862 | — | ✅ Apache-2.0 | A unified inference and post-training framework for accelerate… |
@@ -332,7 +337,7 @@
 <!-- manyu:table:audio -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-| [whisper](https://github.com/openai/whisper) | 113619 | 语音识别，字幕与时间轴制作标配 | ✅ MIT |
+| [whisper](https://github.com/openai/whisper) | 113623 | 语音识别，字幕与时间轴制作标配 | ✅ MIT |
 | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 45 | 少样本中文音色克隆，漫剧配音主力 | ✅ MIT |
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice) | 38340 | 即时音色克隆，多语种 | ✅ MIT 🏢 |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | 33887 | 多语种 TTS，效果好（注意：模型权重 NC） | ⚠️ CC BY-NC-SA |
@@ -340,7 +345,7 @@
 | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | 13290 | 语音驱动口型老牌方案 | ❌ 仅研究用途，禁商用 🏢 |
 | [LatentSync](https://github.com/bytedance/LatentSync) | 6335 | 字节开源，SD 架构口型同步 | ✅ Apache-2.0 🏢 |
 | [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) | 2817 | 2D 动画口型自动生成，动态漫画对口 | ⚠️ 自定义（读原文） |
-| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 119078 | VoiceStudio is the open-source, fully-local ElevenLabs alterna… | 📚 AGPL-3.0 |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 119086 | VoiceStudio is the open-source, fully-local ElevenLabs alterna… | 📚 AGPL-3.0 |
 | [index-tts](https://github.com/index-tts/index-tts) | 25319 | An Industrial-Level Controllable and Efficient Zero-Shot Text-… | ⚠️ 自定义（读原文） |
 | [pipecat](https://github.com/pipecat-ai/pipecat) | 17469 | Open Source framework for voice agents, multimodal apps, and r… | ✅ BSD-2 |
 | [agents](https://github.com/livekit/agents) | 15361 | A framework for building realtime voice AI agents 🤖🎙️📹 | ✅ Apache-2.0 |
@@ -353,7 +358,12 @@
 | [clipforge](https://github.com/xixihhhh/clipforge) | 1451 | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI … | 📚 AGPL-3.0 |
 | [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | 1428 | A multilingual model for long-form, multi-speaker dialogue syn… | ✅ Apache-2.0 |
 | [JJYB_AI_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) | 1281 | JJYB_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音） | ⚠️ 自定义（读原文） |
-| [agnes-video-generator](https://github.com/lcy362/agnes-video-generator) | 778 | Free AI video generator — open-source & self-hosted. Text/imag… | ✅ MIT |
+| [agnes-video-generator](https://github.com/lcy362/agnes-video-generator) | 780 | Free AI video generator — open-source & self-hosted. Text/imag… | ✅ MIT |
+| [OmniChar](https://github.com/omnichar/OmniChar) | 594 | The open .char format for consistent characters. Face, body, w… | 📚 GPL-3.0 |
+| [Phosphene](https://github.com/mrbizarro/Phosphene) | 494 | Phosphene is a free, open-source Mac app for making AI videos,… | ✅ MIT |
+| [browser-whisper](https://github.com/tanpreetjolly/browser-whisper) | 238 | In-browser Whisper speech-to-text with WebGPU (WASM fallback).… | ✅ MIT |
+| [ComfyUI-Drama3](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) | 194 | Fish Audio Drama 3 text to speech, natively in ComfyUI: voice … | 📚 GPL-3.0 |
+| [ai-highlight-clip](https://github.com/toki-plus/ai-highlight-clip) | 108 | AI驱动的长视频高光剪辑工具，自动将数小时的课程、访谈、直播回放转化为数十个爆款短视频。内置Whisper语音识别、大模型(… | ✅ MIT |
 <!-- /manyu:table:audio -->
 
 ### 3.4 🌏 漫画翻译与出海
@@ -361,7 +371,18 @@
 <!-- manyu:table:translate -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-
+| [manga-image-translator](https://github.com/zyddnys/manga-image-translator) | 10665 | 图片内文字一键翻译，生肉变熟肉 | 📚 GPL-3.0 |
+| [koharu](https://github.com/koharu-rs/koharu) | 6854 | Rust 写的 ML 漫画翻译器，快 | ✅ Apache-2.0 |
+| [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) | 5322 | 深度学习辅助漫画翻译，带图像/文本编辑 | 📚 GPL-3.0 |
+| [pyvideotrans](https://github.com/jianchang512/pyvideotrans) | 19855 | Translate the video from one language to another and embed dub… | 📚 GPL-3.0 |
+| [VideoLingo](https://github.com/Huanshere/VideoLingo) | 19406 | Netflix-level subtitle cutting, translation, alignment, and ev… | ✅ Apache-2.0 |
+| [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | 16638 | 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译… | 📚 GPL-3.0 |
+| [OpenCreator](https://github.com/krillinai/OpenCreator) | 14560 | Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+… | ✅ Apache-2.0 |
+| [VidBee](https://github.com/nexmoe/VidBee) | 11222 | Download video and audio from 1000+ sites, transcribe locally … | ✅ MIT |
+| [SmartSub](https://github.com/buxuku/SmartSub) | 6177 | 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等… | ✅ MIT |
+| [YouDub-Desktop](https://github.com/liuzhao1225/YouDub-Desktop) | 5900 | Open-source AI video localization and dubbing for YouTube/Bili… | ✅ Apache-2.0 |
+| [awesome-ai-media-cn](https://github.com/JuneYaooo/awesome-ai-media-cn) | 427 | AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。 | ⚠️ 自定义（读原文） |
+| [iDuanJu](https://github.com/my-name-is-alan/iDuanJu) | 486 | i短剧：免费开源的 iOS 多源短剧/视频/漫画/Telegram 聚合播放器（SwiftUI + QuickJS 插件沙箱… | 📚 GPL-3.0 |
 <!-- /manyu:table:translate -->
 
 ### 3.5 ✂️ 合成与剪辑
@@ -369,7 +390,22 @@
 <!-- manyu:table:compose -->
 | 项目 | ⭐ | 说明 | License |
 |---|---|---|---|
-
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 68318 | 视频合成、字幕烧录、转码的事实标准，各家流水线最后一步都靠它 | 📚 LGPL-2.1 / GPL-2.0 |
+| [shotcut](https://github.com/mltframework/shotcut) | 15810 | cross-platform (Qt), open-source (GPLv3) video editor | 📚 GPL-3.0 |
+| [NarratoAI](https://github.com/linyqh/NarratoAI) | 11951 | 利用 AI 大模型，一键解说并剪辑视频 | ✅ MIT |
+| [openreel-video](https://github.com/Augani/openreel-video) | 6570 | OpenReel Video - Professional browser-based video editor. Open… | ✅ MIT |
+| [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 6306 | 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of p… | 📚 AGPL-3.0 |
+| [pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) | 5044 | 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 ht… | ✅ Apache-2.0 |
+| [freecut](https://github.com/walterlow/freecut) | 2370 | FreeCut is a professional-grade video editor that runs entirel… | ✅ MIT |
+| [Pallaidium](https://github.com/tin2tin/Pallaidium) | 1563 | PALLAIDIUM — a generative AI movie studio, seamlessly integrat… | 📚 GPL-3.0 |
+| [pireel](https://github.com/pireel/pireel) | 1500 | Open-source AI video editor: captions, cuts, B-roll, export to… | 📚 AGPL-3.0 |
+| [ai-video-editor](https://github.com/MartinDelophy/ai-video-editor) | 1015 | Open-source, local-first video editor where creators and AI ag… | ✅ MIT |
+| [clips-studio](https://github.com/ColinGPT9/clips-studio) | 721 | Clips Kitty: Free open-source AI video clipper. Local Opus Cli… | 📚 AGPL-3.0 |
+| [autoclip](https://github.com/artbyjazi/autoclip) | 585 | Open-source, local-first AI video clipper. Long video in, capt… | ✅ MIT |
+| [hotclip](https://github.com/xixihhhh/hotclip) | 525 | 免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频,直发抖音/快手/B站/小红书/视频号… | 📚 AGPL-3.0 |
+| [kinocut](https://github.com/KyaniteLabs/kinocut) | 284 | Guardrailed video editing MCP server for AI agents. FFmpeg, Hy… | ✅ Apache-2.0 |
+| [playlet-clip](https://github.com/Anning01/playlet-clip) | 261 | 短剧自动化剪辑 | ✅ Apache-2.0 |
+| [youmedhub](https://github.com/kociii/youmedhub) | 125 | 一个基于 AI的视频分析、剪辑工具 | ⚠️ 自定义（读原文） |
 <!-- /manyu:table:compose -->
 
 ## 四、📖 网文改编专题（征集中）
